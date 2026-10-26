@@ -1,0 +1,587 @@
+experiment,sample_id,campaign_id,scam_category,language,message,actual,predicted,scam_probability
+A_RANDOM_SPLIT,BV20067,BENIGN_V2,,Hinglish,Assignment portal pe submit kar diya.,BENIGN,BENIGN,0.30622157244560194
+A_RANDOM_SPLIT,BV20171,BENIGN_V2,,Hinglish,College portal mein email verify karna tha.,BENIGN,BENIGN,0.2482615031257481
+A_RANDOM_SPLIT,S0377,JB02,Job/Recruitment,Hinglish,Online tasks karke paise kamao. Worker account activate karne ke liye deposit bhejo. Follow the instructions before the deadline.,SCAM,SCAM,0.9141254893423174
+A_RANDOM_SPLIT,S0619,GP02,Government/Police,Hinglish,Aapka account investigation se linked hai. Message ke instructions turant follow karein. Your access may be restricted if this is not completed.,SCAM,SCAM,0.9588070955919024
+A_RANDOM_SPLIT,BV20187,BENIGN_V2,,English,"Sure, I'll be there.",BENIGN,SCAM,0.5030619018122283
+A_RANDOM_SPLIT,S0493,DP02,Delivery/Parcel,English,Your package requires a processing payment before delivery can continue.,SCAM,SCAM,0.7364732351309543
+A_RANDOM_SPLIT,S0522,DP02,Delivery/Parcel,English,Your shipment is on hold. Confirm the delivery information immediately. This request is time-sensitive.,SCAM,SCAM,0.8976098743512663
+A_RANDOM_SPLIT,S0289,FS02,Fake Customer Support,Hinglish,Service suspend hone se pehle support team se turant contact karein. Follow the instructions before the deadline.,SCAM,SCAM,0.9376142583964853
+A_RANDOM_SPLIT,BV20130,BENIGN_V2,,Hinglish,Delivery address update kar diya.,BENIGN,BENIGN,0.39067801919475764
+A_RANDOM_SPLIT,BV20233,BENIGN_V2,,English,The payment link in the official college portal worked correctly.,BENIGN,BENIGN,0.2797255216506807
+A_RANDOM_SPLIT,S0058,BK01,Banking/Phishing,Hinglish,"Bank employee bol raha hoon, OTP bata dijiye verification ke liye.",SCAM,SCAM,0.6979686606588771
+A_RANDOM_SPLIT,S0412,IV02,Investment,English,A special investment opportunity is available today. Transfer the minimum amount to unlock the plan. Contact the provided number if you need help.,SCAM,SCAM,0.9084432869017921
+A_RANDOM_SPLIT,S0333,JB02,Job/Recruitment,English,Recruitment team: your interview slot is reserved after the registration process is completed.,SCAM,SCAM,0.7736227605791904
+A_RANDOM_SPLIT,BV20223,BENIGN_V2,,English,The pharmacy closes at 10 PM.,BENIGN,BENIGN,0.29286035007336914
+A_RANDOM_SPLIT,S0587,GP02,Government/Police,English,Your document verification has been flagged. Complete the requested process to avoid further action. Your access may be restricted if this is not completed.,SCAM,SCAM,0.9344452891536167
+A_RANDOM_SPLIT,S0361,JB02,Job/Recruitment,English,Your job application has been shortlisted. Complete the registration payment to continue. Follow the instructions before the deadline.,SCAM,SCAM,0.9013447908395912
+A_RANDOM_SPLIT,BV20241,BENIGN_V2,,Hinglish,College form mein account details verify karni hain.,BENIGN,BENIGN,0.4405770428456269
+A_RANDOM_SPLIT,S0404,JB02,Job/Recruitment,Hinglish,Aap remote job ke liye selected ho. Deadline se pehle details submit karein. Contact the provided number if you need help.,SCAM,SCAM,0.9390200050413929
+A_RANDOM_SPLIT,S0054,OB01,Online Booking Impersonation,Hinglish,Sponsored page se hotel booking karke advance payment karein.,SCAM,SCAM,0.6348610766957832
+A_RANDOM_SPLIT,BV20036,BENIGN_V2,,English,The group project meeting is tomorrow.,BENIGN,BENIGN,0.29512790798858635
+A_RANDOM_SPLIT,S0530,DP02,Delivery/Parcel,Hinglish,Aapka parcel deliver nahi hua kyunki address verification pending hai. Link se update karein. This request is time-sensitive.,SCAM,SCAM,0.9207687224902592
+A_RANDOM_SPLIT,S0281,FS02,Fake Customer Support,English,We detected a problem with your payment. Call the support number and share the verification details. Follow the instructions before the deadline.,SCAM,SCAM,0.916073737670157
+A_RANDOM_SPLIT,S0801,SM02,Social Media Impersonation,Hinglish,Account me unusual activity mili hai. Turant identity verify karein. Follow the instructions before the deadline.,SCAM,SCAM,0.9432939342159934
+A_RANDOM_SPLIT,S0354,JB02,Job/Recruitment,English,You have been selected for a remote job. Submit the requested information before the deadline. This request is time-sensitive.,SCAM,SCAM,0.9045489339082562
+A_RANDOM_SPLIT,S0027,MI01,Matrimonial Investment/Crypto,English,I trust you and want to share a private investment opportunity.,SCAM,SCAM,0.7265748378025557
+A_RANDOM_SPLIT,S0147,BK02,Banking/KYC,Hinglish,Aapka debit card block ho sakta hai agar verification abhi complete nahi hua. Your access may be restricted if this is not completed.,SCAM,SCAM,0.9345090041582093
+A_RANDOM_SPLIT,S0550,DP02,Delivery/Parcel,Hinglish,Aapka parcel deliver nahi hua kyunki address verification pending hai. Link se update karein. Do not delay.,SCAM,SCAM,0.9093549342011498
+A_RANDOM_SPLIT,S0036,EC01,Fake eChallan/Malicious APK,Hinglish,Challan details ke liye attached APK install karein.,SCAM,SCAM,0.7568640331131544
+A_RANDOM_SPLIT,S0638,GP02,Government/Police,Hinglish,Government verification pending hai. Requested confirmation delay mat karein. Do not delay.,SCAM,SCAM,0.919752182437965
+A_RANDOM_SPLIT,S0207,UP02,UPI/Payment,Hinglish,UPI security verification pending hai. Payment karne se pehle verify karein. Verify it immediately.,SCAM,SCAM,0.9432604411543822
+A_RANDOM_SPLIT,S0020,WR01,WhatsApp Account Renting,Hinglish,APK install karke WhatsApp link karein aur referral income activate karein.,SCAM,SCAM,0.779074955470741
+A_RANDOM_SPLIT,BV20198,BENIGN_V2,,Hinglish,Haan bilkul.,BENIGN,BENIGN,0.44275535123209675
+A_RANDOM_SPLIT,S0502,DP02,Delivery/Parcel,English,Your shipment is on hold. Confirm the delivery information immediately. Do not delay.,SCAM,SCAM,0.8835282581317002
+A_RANDOM_SPLIT,S0732,SM02,Social Media Impersonation,English,Your account may be suspended unless you complete the security verification. Contact the provided number if you need help.,SCAM,SCAM,0.9528068557920001
+A_RANDOM_SPLIT,S0599,GP02,Government/Police,English,Your account has been associated with an investigation. Follow the instructions in this message immediately. Verify it immediately.,SCAM,SCAM,0.8860746986330906
+A_RANDOM_SPLIT,BV20128,BENIGN_V2,,Hinglish,Return request accept ho gayi.,BENIGN,BENIGN,0.4568554094054664
+A_RANDOM_SPLIT,S0802,SM02,Social Media Impersonation,Hinglish,Security verification complete nahi kiya to account suspend ho sakta hai. This request is time-sensitive.,SCAM,SCAM,0.921749321569526
+A_RANDOM_SPLIT,S0621,GP02,Government/Police,Hinglish,Official notice ke according identity confirm karni hai. Diye gaye contact par reply karein.,SCAM,SCAM,0.7964449519136466
+A_RANDOM_SPLIT,S0129,BK02,Banking/KYC,Hinglish,KYC verification pending hai. Deadline se pehle process complete karein. Follow the instructions before the deadline.,SCAM,SCAM,0.9625314246776115
+A_RANDOM_SPLIT,S0584,GP02,Government/Police,English,Your account has been associated with an investigation. Follow the instructions in this message immediately. Complete the process today.,SCAM,SCAM,0.9009248945318948
+A_RANDOM_SPLIT,S0807,BENIGN_EXPANDED,,English,The meeting has been moved to 3 PM. Please join through the usual calendar invite.,BENIGN,BENIGN,0.3058115955942535
+A_RANDOM_SPLIT,S0700,UT02,Utility/Electricity,Hinglish,Aapka electricity connection aaj disconnect ho sakta hai kyunki bill pending hai. Contact the provided number if you need help.,SCAM,SCAM,0.9001710930889
+A_RANDOM_SPLIT,S0033,EC01,Fake eChallan/Malicious APK,English,Your vehicle challan has been generated. Download the receipt from the link.,SCAM,SCAM,0.5559870370657932
+A_RANDOM_SPLIT,S0046,BS01,Boss/CEO Impersonation,Hinglish,Main CEO hoon. Client payment urgently is account mein transfer karo.,SCAM,BENIGN,0.4991043365355144
+A_RANDOM_SPLIT,BV20050,BENIGN_V2,,Hinglish,Photos drive mein upload kar diye.,BENIGN,BENIGN,0.2820626911130015
+A_RANDOM_SPLIT,S0039,EC01,Fake eChallan/Malicious APK,English,Enter the OTP received on your phone to complete verification.,SCAM,SCAM,0.6773612051585056
+A_RANDOM_SPLIT,S0037,EC01,Fake eChallan/Malicious APK,English,Update the eChallan application now to access the pending notice.,SCAM,SCAM,0.7723532065678699
+A_RANDOM_SPLIT,S0238,UP02,UPI/Payment,Hinglish,Payment fail hua hai. Support number par call karke verification details dein. Do not delay.,SCAM,SCAM,0.9216461942144126
+A_RANDOM_SPLIT,S0017,WR01,WhatsApp Account Renting,English,Earn automatic commissions by connecting your WhatsApp account through a QR code.,SCAM,SCAM,0.6691284036636819
+A_RANDOM_SPLIT,BV20215,BENIGN_V2,,English,The game update finished downloading.,BENIGN,SCAM,0.6096036030096977
+A_RANDOM_SPLIT,S0049,OB01,Online Booking Impersonation,English,A professional-looking pilgrimage booking page is offering rooms at a special price.,SCAM,BENIGN,0.4866351878054923
+A_RANDOM_SPLIT,S0796,SM02,Social Media Impersonation,Hinglish,Account me unusual activity mili hai. Turant identity verify karein. Contact the provided number if you need help.,SCAM,SCAM,0.9470049398947143
+A_RANDOM_SPLIT,S0239,UP02,UPI/Payment,Hinglish,Aapko payment request mili hai. Abhi approve karke transaction complete karein. Verify it immediately.,SCAM,SCAM,0.9235255211565736
+A_RANDOM_SPLIT,S0265,FS02,Fake Customer Support,English,Customer care here. Your account has a technical issue. Install the support application to fix it. Follow the instructions before the deadline.,SCAM,SCAM,0.905802312138888
+A_RANDOM_SPLIT,S0509,DP02,Delivery/Parcel,English,Courier update: your parcel will be returned unless the requested verification is completed.,SCAM,SCAM,0.8399788402595563
+A_RANDOM_SPLIT,S0292,FS02,Fake Customer Support,Hinglish,Aapki recent transaction ko confirmation chahiye. Instructions abhi follow karein. Contact the provided number if you need help.,SCAM,SCAM,0.91859130217638
+A_RANDOM_SPLIT,S0450,IV02,Investment,Hinglish,Limited time ke liye guaranteed returns mil rahe hain. Account activate karne ke liye deposit karein. This request is time-sensitive.,SCAM,SCAM,0.9088404308749715
+A_RANDOM_SPLIT,BV20228,BENIGN_V2,,Hinglish,Doctor ka appointment kal hai.,BENIGN,BENIGN,0.37347479329419264
+A_RANDOM_SPLIT,S0788,SM02,Social Media Impersonation,Hinglish,Friend/account admin ko aapki account information confirm karni hai. Contact the provided number if you need help.,SCAM,SCAM,0.9299427817750049
+A_RANDOM_SPLIT,S0516,DP02,Delivery/Parcel,English,Delivery attempt failed. Pay the small rescheduling charge to receive your parcel. Contact the provided number if you need help.,SCAM,SCAM,0.9171650358819946
+A_RANDOM_SPLIT,S0300,FS02,Fake Customer Support,Hinglish,"Customer care se bol raha hoon, account me technical issue hai. Support app install karein. Contact the provided number if you need help.",SCAM,SCAM,0.9111610834566353
+A_RANDOM_SPLIT,S0165,UP02,UPI/Payment,English,Your UPI payment is waiting for approval. Open the link and confirm the transaction.,SCAM,SCAM,0.7713024414389495
+A_RANDOM_SPLIT,BV20203,BENIGN_V2,,Hinglish,"Haan, samajh gaya.",BENIGN,BENIGN,0.36036551410125844
+A_RANDOM_SPLIT,BV20146,BENIGN_V2,,English,The transaction receipt is available in the banking app.,BENIGN,BENIGN,0.36773807674218645
+A_RANDOM_SPLIT,S0537,DP02,Delivery/Parcel,Hinglish,Shipment hold par hai. Delivery information turant confirm karein. Follow the instructions before the deadline.,SCAM,SCAM,0.9326980345718726
+A_RANDOM_SPLIT,S0731,SM02,Social Media Impersonation,English,We detected unusual activity on your account. Verify your identity immediately. Your access may be restricted if this is not completed.,SCAM,SCAM,0.9534502526313352
+A_RANDOM_SPLIT,BV20051,BENIGN_V2,,English,The database assignment is due on Friday.,BENIGN,BENIGN,0.45534321942046563
+A_RANDOM_SPLIT,BV20033,BENIGN_V2,,English,Let's meet at the cafe after college.,BENIGN,BENIGN,0.25674487397909346
+A_RANDOM_SPLIT,S0232,UP02,UPI/Payment,Hinglish,UPI security verification pending hai. Payment karne se pehle verify karein. Complete the process today.,SCAM,SCAM,0.9504427112865022
+A_RANDOM_SPLIT,S0405,IV02,Investment,English,Our investment platform is offering guaranteed returns for a limited period. Deposit now to activate your account.,SCAM,SCAM,0.7798069145289882
+A_RANDOM_SPLIT,BV20029,BENIGN_V2,,English,I shared the photos in our group.,BENIGN,BENIGN,0.33584160840983335
+A_RANDOM_SPLIT,S0410,IV02,Investment,English,Our investment platform is offering guaranteed returns for a limited period. Deposit now to activate your account. This request is time-sensitive.,SCAM,SCAM,0.8773831633797943
+A_RANDOM_SPLIT,S0693,UT02,Utility/Electricity,Hinglish,Aapki mobile ya utility service restrict ho sakti hai agar verification complete nahi hua.,SCAM,SCAM,0.7991823802340255
+A_RANDOM_SPLIT,S0173,UP02,UPI/Payment,English,Payment failed because verification is incomplete. Contact the support number in this message.,SCAM,SCAM,0.8202413663251681
+A_RANDOM_SPLIT,S0694,UT02,Utility/Electricity,Hinglish,Billing issue detect hua hai. Service interruption se bachne ke liye diye number par contact karein. Do not delay.,SCAM,SCAM,0.9305738373047567
+A_RANDOM_SPLIT,S0358,JB02,Job/Recruitment,English,Recruitment team: your interview slot is reserved after the registration process is completed. Do not delay.,SCAM,SCAM,0.8621046256737097
+A_RANDOM_SPLIT,S0132,BK02,Banking/KYC,Hinglish,Aapka debit card block ho sakta hai agar verification abhi complete nahi hua. Contact the provided number if you need help.,SCAM,SCAM,0.9149228890494353
+A_RANDOM_SPLIT,BV20037,BENIGN_V2,,English,Can you check the document I sent?,BENIGN,BENIGN,0.36571739096143957
+A_RANDOM_SPLIT,S0677,UT02,Utility/Electricity,English,Your electricity service requires account verification before the next billing cycle.,SCAM,SCAM,0.7977309079525792
+A_RANDOM_SPLIT,S0528,DP02,Delivery/Parcel,Hinglish,Parcel ke liye processing payment pending hai. Payment complete karein. Complete the process today.,SCAM,SCAM,0.9437494155398751
+A_RANDOM_SPLIT,S0204,UP02,UPI/Payment,English,You have received a payment request. Approve it now to complete the transaction. Contact the provided number if you need help.,SCAM,SCAM,0.9207562439364478
+A_RANDOM_SPLIT,S0648,UT02,Utility/Electricity,English,Your mobile or utility service will be restricted unless the outstanding verification is completed. Complete the process today.,SCAM,SCAM,0.9044838669714659
+A_RANDOM_SPLIT,BV20169,BENIGN_V2,,English,Please verify the meeting details in the calendar.,BENIGN,BENIGN,0.3001761500785615
+A_RANDOM_SPLIT,S0115,BK02,Banking/KYC,English,Your bank account requires KYC verification today. Use the verification link to avoid service interruption. Your access may be restricted if this is not completed.,SCAM,SCAM,0.9497331638949793
+A_RANDOM_SPLIT,S0646,UT02,Utility/Electricity,English,Final notice: your utility payment has not been verified. Complete payment immediately. Do not delay.,SCAM,SCAM,0.8605909090335749
+A_RANDOM_SPLIT,S0350,JB02,Job/Recruitment,English,Work from home opportunity: complete simple tasks and earn daily income. Pay a small verification fee to start. Do not delay.,SCAM,SCAM,0.8871538193404047
+A_RANDOM_SPLIT,S0111,BK02,Banking/KYC,English,Security alert: unusual activity was detected on your bank account. Confirm your details immediately. Verify it immediately.,SCAM,SCAM,0.9050333600748385
+A_RANDOM_SPLIT,S0326,JB02,Job/Recruitment,English,Your job application has been shortlisted. Complete the registration payment to continue. Do not delay.,SCAM,SCAM,0.8830437293016252
+A_RANDOM_SPLIT,BV20027,BENIGN_V2,,English,Let's meet near the library at 2 PM.,BENIGN,BENIGN,0.250054492256857
+A_RANDOM_SPLIT,S0518,DP02,Delivery/Parcel,English,Your package requires a processing payment before delivery can continue. Do not delay.,SCAM,SCAM,0.8540264394446984
+A_RANDOM_SPLIT,S0722,UT02,Utility/Electricity,Hinglish,Electricity service ke liye account verification required hai. Abhi complete karein. This request is time-sensitive.,SCAM,SCAM,0.9465253045129409
+A_RANDOM_SPLIT,S0718,UT02,Utility/Electricity,Hinglish,Aapki mobile ya utility service restrict ho sakti hai agar verification complete nahi hua. Do not delay.,SCAM,SCAM,0.8723664568227438
+A_RANDOM_SPLIT,S0592,GP02,Government/Police,English,Your document verification has been flagged. Complete the requested process to avoid further action. Complete the process today.,SCAM,SCAM,0.8754588158834707
+A_RANDOM_SPLIT,BV20222,BENIGN_V2,,English,I have a dentist appointment tomorrow.,BENIGN,BENIGN,0.3273415847080969
+A_RANDOM_SPLIT,S0140,BK02,Banking/KYC,Hinglish,Aapke bank account ka KYC pending hai. Aaj verification complete karein warna service ruk sakti hai. Contact the provided number if you need help.,SCAM,SCAM,0.9331847805249193
+A_RANDOM_SPLIT,S0053,OB01,Online Booking Impersonation,English,Your booking will be confirmed only after immediate payment.,SCAM,SCAM,0.5597948228029676
+A_RANDOM_SPLIT,S0434,IV02,Investment,English,Join this private trading group and receive guaranteed profit signals after registration. This request is time-sensitive.,SCAM,SCAM,0.8928241070379211
+A_RANDOM_SPLIT,S0625,GP02,Government/Police,Hinglish,Aapki identity ek pending case se linked hai. Verification officer se turant contact karein. Follow the instructions before the deadline.,SCAM,SCAM,0.9386806051795932
+A_RANDOM_SPLIT,S0385,JB02,Job/Recruitment,Hinglish,"Work from home job hai, daily income milegi. Start karne ke liye small verification fee pay karein. Follow the instructions before the deadline.",SCAM,SCAM,0.9339579359676791
+A_RANDOM_SPLIT,BV20154,BENIGN_V2,,Hinglish,Salary account mein credit ho gayi.,BENIGN,BENIGN,0.3274372482869088
+A_RANDOM_SPLIT,S0675,UT02,Utility/Electricity,English,Your electricity connection may be disconnected today because the latest bill is pending. Your access may be restricted if this is not completed.,SCAM,SCAM,0.9303279265228629
+A_RANDOM_SPLIT,S0268,FS02,Fake Customer Support,English,This is the customer support desk. Your account will remain restricted until verification is completed. Contact the provided number if you need help.,SCAM,SCAM,0.9317254348739912
+A_RANDOM_SPLIT,BV20109,BENIGN_V2,,English,The boarding gate has changed to Gate 12.,BENIGN,BENIGN,0.43083604559352945
+A_RANDOM_SPLIT,S0018,WR01,WhatsApp Account Renting,Hinglish,WhatsApp connect karke daily commission earn karein.,SCAM,SCAM,0.7287050282706325
+A_RANDOM_SPLIT,S0632,GP02,Government/Police,Hinglish,Document verification flag hua hai. Further action se bachne ke liye process complete karein. Complete the process today.,SCAM,SCAM,0.9220560060177946
+A_RANDOM_SPLIT,S0795,SM02,Social Media Impersonation,Hinglish,Aapka social media account verification ke liye select hua hai. Login details confirm karein. Your access may be restricted if this is not completed.,SCAM,SCAM,0.960303807346885
+A_RANDOM_SPLIT,S0208,UP02,UPI/Payment,Hinglish,Payment fail hua hai. Support number par call karke verification details dein. Complete the process today.,SCAM,SCAM,0.9294520762024322
+A_RANDOM_SPLIT,S0485,DP02,Delivery/Parcel,English,Your parcel could not be delivered because the address needs verification. Use the link to update it.,SCAM,SCAM,0.8120465632111739
+A_RANDOM_SPLIT,S0382,JB02,Job/Recruitment,Hinglish,Online tasks karke paise kamao. Worker account activate karne ke liye deposit bhejo. Do not delay.,SCAM,SCAM,0.8904809904154771
+A_RANDOM_SPLIT,S0155,BK02,Banking/KYC,Hinglish,Aapke bank account ka KYC pending hai. Aaj verification complete karein warna service ruk sakti hai. Your access may be restricted if this is not completed.,SCAM,SCAM,0.9454062790430031
+A_RANDOM_SPLIT,S0616,GP02,Government/Police,Hinglish,Official notice ke according identity confirm karni hai. Diye gaye contact par reply karein. Complete the process today.,SCAM,SCAM,0.8905758550603767
+A_RANDOM_SPLIT,S0366,JB02,Job/Recruitment,Hinglish,Aapka job application shortlist hua hai. Registration payment complete karein. Do not delay.,SCAM,SCAM,0.9222518173535169
+A_RANDOM_SPLIT,S0637,GP02,Government/Police,Hinglish,Document verification flag hua hai. Further action se bachne ke liye process complete karein.,SCAM,SCAM,0.8616723110902611
+A_RANDOM_SPLIT,S0575,GP02,Government/Police,English,Your identity record is linked to a pending case. Contact the verification officer immediately. Verify it immediately.,SCAM,SCAM,0.9136633236682502
+A_RANDOM_SPLIT,BV20245,BENIGN_V2,,Hinglish,Bank account number form mein check kar lena.,BENIGN,BENIGN,0.30160259078140167
+A_RANDOM_SPLIT,BV20081,BENIGN_V2,,English,The client meeting starts at 11 AM.,BENIGN,BENIGN,0.24720490897475142
+A_RANDOM_SPLIT,S0416,IV02,Investment,English,Your trading account can earn high daily returns. Contact the advisor to start immediately. Complete the process today.,SCAM,SCAM,0.91553767971168
+A_RANDOM_SPLIT,S0184,UP02,UPI/Payment,English,You have received a payment request. Approve it now to complete the transaction. Complete the process today.,SCAM,SCAM,0.8944240619379015
+A_RANDOM_SPLIT,S0245,FS02,Fake Customer Support,English,Customer care here. Your account has a technical issue. Install the support application to fix it.,SCAM,SCAM,0.8154645500938038
+A_RANDOM_SPLIT,BV20199,BENIGN_V2,,Hinglish,"Okay, main aa raha hoon.",BENIGN,BENIGN,0.416431103252862
+A_RANDOM_SPLIT,S0682,UT02,Utility/Electricity,English,Your electricity service requires account verification before the next billing cycle. This request is time-sensitive.,SCAM,SCAM,0.9045583761665321
+A_RANDOM_SPLIT,BV20108,BENIGN_V2,,English,Our hotel check-in starts at 2 PM.,BENIGN,BENIGN,0.18092104522242686
+A_RANDOM_SPLIT,S0047,BS01,Boss/CEO Impersonation,English,Treat this as confidential and make the urgent transfer without delay.,SCAM,SCAM,0.7755528918612041
+A_RANDOM_SPLIT,BV20194,BENIGN_V2,,English,"Alright, let's do it.",BENIGN,SCAM,0.6030346632714213
+A_RANDOM_SPLIT,S0051,OB01,Online Booking Impersonation,English,Complete payment through this link to confirm your religious-tour booking.,SCAM,SCAM,0.819576702592497
+A_RANDOM_SPLIT,S0005,DA01,Digital Arrest,English,"To avoid the alleged legal action, arrange the demanded settlement amount.",SCAM,SCAM,0.6294695294141318
+A_RANDOM_SPLIT,S0104,BK02,Banking/KYC,English,Your account verification is pending. Complete the process before the deadline. Complete the process today.,SCAM,SCAM,0.961133133056973
+A_RANDOM_SPLIT,S0640,GP02,Government/Police,Hinglish,Aapki identity ek pending case se linked hai. Verification officer se turant contact karein. Complete the process today.,SCAM,SCAM,0.9293078974161948
+A_RANDOM_SPLIT,S0167,UP02,UPI/Payment,English,Your UPI account has a pending security check. Verify before making another payment. Verify it immediately.,SCAM,SCAM,0.8738263230881638
+A_RANDOM_SPLIT,S0009,CJ01,Fake Job/CAPTCHA,English,Earn high income from home by completing CAPTCHA tasks. Register today.,SCAM,SCAM,0.6744820772879958
+A_RANDOM_SPLIT,S0387,JB02,Job/Recruitment,Hinglish,Online tasks karke paise kamao. Worker account activate karne ke liye deposit bhejo. Your access may be restricted if this is not completed.,SCAM,SCAM,0.9404963894879902
+A_RANDOM_SPLIT,S0652,UT02,Utility/Electricity,English,Your electricity service requires account verification before the next billing cycle. Contact the provided number if you need help.,SCAM,SCAM,0.9215010292078921
+A_RANDOM_SPLIT,S0170,UP02,UPI/Payment,English,Your UPI payment is waiting for approval. Open the link and confirm the transaction. This request is time-sensitive.,SCAM,SCAM,0.8731021646760688
+A_RANDOM_SPLIT,S0653,UT02,Utility/Electricity,English,Your mobile or utility service will be restricted unless the outstanding verification is completed.,SCAM,SCAM,0.8283420399552941
+A_RANDOM_SPLIT,BV20016,BENIGN_V2,,Hinglish,Aaj ghar kab aaoge?,BENIGN,BENIGN,0.38392559835077705
+A_RANDOM_SPLIT,S0202,UP02,UPI/Payment,English,Your UPI account has a pending security check. Verify before making another payment. This request is time-sensitive.,SCAM,SCAM,0.8985151006181752
+A_RANDOM_SPLIT,BV20113,BENIGN_V2,,Hinglish,Flight Terminal 2 se hai.,BENIGN,SCAM,0.5678505990297005
+A_RANDOM_SPLIT,S0420,IV02,Investment,English,Our investment platform is offering guaranteed returns for a limited period. Deposit now to activate your account. Contact the provided number if you need help.,SCAM,SCAM,0.8954419839759094
+A_RANDOM_SPLIT,S0740,SM02,Social Media Impersonation,English,Your social media account has been selected for verification. Confirm your login details to keep access. Contact the provided number if you need help.,SCAM,SCAM,0.9223048278210787
+A_RANDOM_SPLIT,S0489,DP02,Delivery/Parcel,English,Courier update: your parcel will be returned unless the requested verification is completed. Follow the instructions before the deadline.,SCAM,SCAM,0.924880038481648
+A_RANDOM_SPLIT,S0128,BK02,Banking/KYC,Hinglish,"Bank support se message hai, account details verify karne ke liye diye gaye link par click karein. Complete the process today.",SCAM,SCAM,0.9392417627981259
+A_RANDOM_SPLIT,S0137,BK02,Banking/KYC,Hinglish,Aapka debit card block ho sakta hai agar verification abhi complete nahi hua. Follow the instructions before the deadline.,SCAM,SCAM,0.9057877699455119
+A_RANDOM_SPLIT,S0220,UP02,UPI/Payment,Hinglish,Aapka UPI payment approval ka wait kar raha hai. Link open karke transaction confirm karein. Contact the provided number if you need help.,SCAM,SCAM,0.9200594993385757
+A_RANDOM_SPLIT,S0038,EC01,Fake eChallan/Malicious APK,Hinglish,App update ke bina challan details open nahi hongi.,SCAM,SCAM,0.6249641993294541
+A_RANDOM_SPLIT,S0335,JB02,Job/Recruitment,English,Work from home opportunity: complete simple tasks and earn daily income. Pay a small verification fee to start. Verify it immediately.,SCAM,SCAM,0.8883313711835511
+A_RANDOM_SPLIT,S0164,BK02,Banking/KYC,Hinglish,KYC verification pending hai. Deadline se pehle process complete karein. Contact the provided number if you need help.,SCAM,SCAM,0.9660439269242679
+A_RANDOM_SPLIT,BV20085,BENIGN_V2,,English,The presentation is ready for review.,BENIGN,BENIGN,0.2895978716391485
+A_RANDOM_SPLIT,BV20066,BENIGN_V2,,Hinglish,Kal OS ka class hai kya?,BENIGN,BENIGN,0.3468685654307215
+A_RANDOM_SPLIT,S0772,SM02,Social Media Impersonation,Hinglish,Security verification complete nahi kiya to account suspend ho sakta hai. Contact the provided number if you need help.,SCAM,SCAM,0.9402060883312542
+A_RANDOM_SPLIT,S0203,UP02,UPI/Payment,English,Payment failed because verification is incomplete. Contact the support number in this message. Your access may be restricted if this is not completed.,SCAM,SCAM,0.9417140582317749
+A_RANDOM_SPLIT,S0465,IV02,Investment,Hinglish,Limited time ke liye guaranteed returns mil rahe hain. Account activate karne ke liye deposit karein. Follow the instructions before the deadline.,SCAM,SCAM,0.9190114275690024
+A_RANDOM_SPLIT,S0162,BK02,Banking/KYC,Hinglish,Aapka debit card block ho sakta hai agar verification abhi complete nahi hua. This request is time-sensitive.,SCAM,SCAM,0.9033610093249493
+A_RANDOM_SPLIT,S0074,BENIGN_CTRL,,Hinglish,Kal class 9 baje hai.,BENIGN,BENIGN,0.276062730373331
+A_RANDOM_SPLIT,S0559,DP02,Delivery/Parcel,Hinglish,Courier update: verification nahi kiya to parcel return ho jayega. Verify it immediately.,SCAM,SCAM,0.8691807710202387
+A_RANDOM_SPLIT,BV20031,BENIGN_V2,,English,What movie should we watch this weekend?,BENIGN,BENIGN,0.43280644507689847
+A_RANDOM_SPLIT,S0022,WR01,WhatsApp Account Renting,Hinglish,Direct aur indirect invites se extra commission milega.,SCAM,SCAM,0.6602531267500514
+A_RANDOM_SPLIT,BV20168,BENIGN_V2,,English,I received an OTP while logging into my own account.,BENIGN,BENIGN,0.4177635576056395
+A_RANDOM_SPLIT,S0775,SM02,Social Media Impersonation,Hinglish,Aapka social media account verification ke liye select hua hai. Login details confirm karein. Verify it immediately.,SCAM,SCAM,0.9306584102401149
+A_RANDOM_SPLIT,BV20082,BENIGN_V2,,English,I will finish the task by this evening.,BENIGN,BENIGN,0.4034449095926626
+A_RANDOM_SPLIT,S0482,IV02,Investment,Hinglish,Special investment opportunity available hai. Minimum amount transfer karke plan unlock karein. This request is time-sensitive.,SCAM,SCAM,0.9052583499893059
+A_RANDOM_SPLIT,BV20206,BENIGN_V2,,English,The movie starts at 7:30 PM.,BENIGN,BENIGN,0.2655873818556817
+A_RANDOM_SPLIT,S0295,FS02,Fake Customer Support,Hinglish,"Customer care se bol raha hoon, account me technical issue hai. Support app install karein. Verify it immediately.",SCAM,SCAM,0.8799758963616419
+A_RANDOM_SPLIT,S0362,JB02,Job/Recruitment,English,Earn money online by completing tasks. Send the requested deposit to activate your worker account. This request is time-sensitive.,SCAM,SCAM,0.8963554157740792
+A_RANDOM_SPLIT,S0486,DP02,Delivery/Parcel,English,Delivery attempt failed. Pay the small rescheduling charge to receive your parcel. Do not delay.,SCAM,SCAM,0.8825270928258538
+A_RANDOM_SPLIT,BV20136,BENIGN_V2,,English,Let's order pizza tonight.,BENIGN,BENIGN,0.27248286427242685
+A_RANDOM_SPLIT,S0716,UT02,Utility/Electricity,Hinglish,Final notice: utility payment verify nahi hua. Turant payment complete karein. Contact the provided number if you need help.,SCAM,SCAM,0.9367805022795159
+A_RANDOM_SPLIT,S0124,BK02,Banking/KYC,English,Your account verification is pending. Complete the process before the deadline. Contact the provided number if you need help.,SCAM,SCAM,0.9760860142212029
+A_RANDOM_SPLIT,BV20139,BENIGN_V2,,English,The restaurant has confirmed our reservation.,BENIGN,BENIGN,0.2703927229536046
+A_RANDOM_SPLIT,S0814,BENIGN_EXPANDED,,Hinglish,Your friend sent you a photo. Open the conversation in the official app.,BENIGN,BENIGN,0.35882559798381364
+A_RANDOM_SPLIT,S0116,BK02,Banking/KYC,English,Security alert: unusual activity was detected on your bank account. Confirm your details immediately. Contact the provided number if you need help.,SCAM,SCAM,0.9360553321817715
+A_RANDOM_SPLIT,BV20237,BENIGN_V2,,English,The university sent a notification about account verification.,BENIGN,SCAM,0.5394864495035284
+A_RANDOM_SPLIT,S0712,UT02,Utility/Electricity,Hinglish,Electricity service ke liye account verification required hai. Abhi complete karein. Complete the process today.,SCAM,SCAM,0.9408425669366075
+A_RANDOM_SPLIT,S0456,IV02,Investment,Hinglish,Trading account se high daily return milega. Advisor se contact karke abhi start karein. Complete the process today.,SCAM,SCAM,0.9198171037486972
+A_RANDOM_SPLIT,S0651,UT02,Utility/Electricity,English,Final notice: your utility payment has not been verified. Complete payment immediately. Your access may be restricted if this is not completed.,SCAM,SCAM,0.92119575894564
+A_RANDOM_SPLIT,S0524,DP02,Delivery/Parcel,English,Courier update: your parcel will be returned unless the requested verification is completed. Contact the provided number if you need help.,SCAM,SCAM,0.9312110249079446
+A_RANDOM_SPLIT,S0258,FS02,Fake Customer Support,English,This is the customer support desk. Your account will remain restricted until verification is completed. This request is time-sensitive.,SCAM,SCAM,0.9127233193491072
+A_RANDOM_SPLIT,S0314,FS02,Fake Customer Support,Hinglish,Service suspend hone se pehle support team se turant contact karein. This request is time-sensitive.,SCAM,SCAM,0.9309536891817871
+A_RANDOM_SPLIT,S0398,JB02,Job/Recruitment,Hinglish,Recruitment team se message hai. Registration complete karke interview slot confirm karein. Do not delay.,SCAM,SCAM,0.9295250219470804
+A_RANDOM_SPLIT,S0296,FS02,Fake Customer Support,Hinglish,Payment me problem detect hui hai. Support number par call karke verification details share karein. Complete the process today.,SCAM,SCAM,0.921954758878097
+A_RANDOM_SPLIT,S0701,UT02,Utility/Electricity,Hinglish,Final notice: utility payment verify nahi hua. Turant payment complete karein.,SCAM,SCAM,0.8335420567320816
+A_RANDOM_SPLIT,BV20078,BENIGN_V2,,English,I have shared the report with the team.,BENIGN,BENIGN,0.42476734425080676
+A_RANDOM_SPLIT,S0582,GP02,Government/Police,English,Your document verification has been flagged. Complete the requested process to avoid further action. Do not delay.,SCAM,SCAM,0.8825813359392156
+A_RANDOM_SPLIT,S0813,BENIGN_EXPANDED,,English,"Dad, I will reach home after class. Please keep dinner ready.",BENIGN,BENIGN,0.28032249944652676
+A_RANDOM_SPLIT,S0175,UP02,UPI/Payment,English,Your UPI payment is waiting for approval. Open the link and confirm the transaction. Verify it immediately.,SCAM,SCAM,0.8576257808735656
+A_RANDOM_SPLIT,S0413,IV02,Investment,English,Your investment bonus expires soon. Complete the payment to claim the additional amount.,SCAM,SCAM,0.8115814460667168
+A_RANDOM_SPLIT,S0242,UP02,UPI/Payment,Hinglish,UPI security verification pending hai. Payment karne se pehle verify karein. This request is time-sensitive.,SCAM,SCAM,0.9521795589070837
+A_RANDOM_SPLIT,S0188,UP02,UPI/Payment,English,Payment failed because verification is incomplete. Contact the support number in this message. Contact the provided number if you need help.,SCAM,SCAM,0.9162702056656695
+A_RANDOM_SPLIT,S0578,GP02,Government/Police,English,Government verification is pending. Do not delay the requested confirmation. This request is time-sensitive.,SCAM,SCAM,0.9599624078926855
+A_RANDOM_SPLIT,BV20183,BENIGN_V2,,English,I sent the official railway website link in the group.,BENIGN,BENIGN,0.29590301335395
+A_RANDOM_SPLIT,S0143,BK02,Banking/KYC,Hinglish,"Bank support se message hai, account details verify karne ke liye diye gaye link par click karein. Verify it immediately.",SCAM,SCAM,0.9322582161807991
+A_RANDOM_SPLIT,S0118,BK02,Banking/KYC,English,Bank support: please confirm your account information using the secure link provided. Do not delay.,SCAM,SCAM,0.9072458899678412
+A_RANDOM_SPLIT,S0139,BK02,Banking/KYC,Hinglish,KYC verification pending hai. Deadline se pehle process complete karein. Your access may be restricted if this is not completed.,SCAM,SCAM,0.9750896166119748
+A_RANDOM_SPLIT,S0432,IV02,Investment,English,A special investment opportunity is available today. Transfer the minimum amount to unlock the plan. Complete the process today.,SCAM,SCAM,0.8766731727403353
+A_RANDOM_SPLIT,S0472,IV02,Investment,Hinglish,Special investment opportunity available hai. Minimum amount transfer karke plan unlock karein. Complete the process today.,SCAM,SCAM,0.8996215138858841
+A_RANDOM_SPLIT,BV20042,BENIGN_V2,,Hinglish,Notes group mein bhej dena.,BENIGN,BENIGN,0.3099477209074217
+A_RANDOM_SPLIT,BV20149,BENIGN_V2,,English,Your bank statement for September is available.,BENIGN,BENIGN,0.4933397832964267
+A_RANDOM_SPLIT,S0193,UP02,UPI/Payment,English,Payment failed because verification is incomplete. Contact the support number in this message. Follow the instructions before the deadline.,SCAM,SCAM,0.9194163251702209
+A_RANDOM_SPLIT,S0810,BENIGN_EXPANDED,,English,Your electricity bill payment was received successfully.,BENIGN,BENIGN,0.45489221597784535
+A_RANDOM_SPLIT,S0735,SM02,Social Media Impersonation,English,Your social media account has been selected for verification. Confirm your login details to keep access. Verify it immediately.,SCAM,SCAM,0.8920871622158202
+A_RANDOM_SPLIT,S0666,UT02,Utility/Electricity,English,Final notice: your utility payment has not been verified. Complete payment immediately. This request is time-sensitive.,SCAM,SCAM,0.8851583455390318
+A_RANDOM_SPLIT,S0276,FS02,Fake Customer Support,English,We detected a problem with your payment. Call the support number and share the verification details. Contact the provided number if you need help.,SCAM,SCAM,0.921205941787785
+A_RANDOM_SPLIT,S0671,UT02,Utility/Electricity,English,Final notice: your utility payment has not been verified. Complete payment immediately. Verify it immediately.,SCAM,SCAM,0.8595658866654106
+A_RANDOM_SPLIT,S0483,IV02,Investment,Hinglish,Investment bonus jaldi expire hoga. Additional amount claim karne ke liye payment karein. Your access may be restricted if this is not completed.,SCAM,SCAM,0.9471726928802298
+A_RANDOM_SPLIT,S0685,UT02,Utility/Electricity,Hinglish,Aapka electricity connection aaj disconnect ho sakta hai kyunki bill pending hai.,SCAM,SCAM,0.7561166149460048
+A_RANDOM_SPLIT,S0317,FS02,Fake Customer Support,Hinglish,Aapki recent transaction ko confirmation chahiye. Instructions abhi follow karein.,SCAM,SCAM,0.7875614897458316
+A_RANDOM_SPLIT,BV20207,BENIGN_V2,,English,I bought tickets for the concert.,BENIGN,BENIGN,0.3950813523551391
+A_RANDOM_SPLIT,S0698,UT02,Utility/Electricity,Hinglish,Aapki mobile ya utility service restrict ho sakti hai agar verification complete nahi hua. This request is time-sensitive.,SCAM,SCAM,0.8957140132013464
+A_RANDOM_SPLIT,S0266,FS02,Fake Customer Support,English,We detected a problem with your payment. Call the support number and share the verification details. This request is time-sensitive.,SCAM,SCAM,0.9094890621447211
+A_RANDOM_SPLIT,BV20086,BENIGN_V2,,English,The calendar invite has been updated.,BENIGN,BENIGN,0.34747780080317703
+A_RANDOM_SPLIT,S0782,SM02,Social Media Impersonation,Hinglish,Security verification complete nahi kiya to account suspend ho sakta hai. Do not delay.,SCAM,SCAM,0.9089896588695157
+A_RANDOM_SPLIT,BV20167,BENIGN_V2,,English,The payment page asked for an OTP to complete the transaction.,BENIGN,SCAM,0.6050826280909727
+A_RANDOM_SPLIT,BV20100,BENIGN_V2,,Hinglish,Document ek baar check kar lena.,BENIGN,BENIGN,0.2946110031046931
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0165,UP02,UPI/Payment,English,Your UPI payment is waiting for approval. Open the link and confirm the transaction.,SCAM,SCAM,0.529976258778756
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0166,UP02,UPI/Payment,English,A refund has been initiated. Enter the requested UPI details to receive the amount. Do not delay.,SCAM,SCAM,0.6717462812509328
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0167,UP02,UPI/Payment,English,Your UPI account has a pending security check. Verify before making another payment. Verify it immediately.,SCAM,SCAM,0.7759025726313995
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0168,UP02,UPI/Payment,English,Payment failed because verification is incomplete. Contact the support number in this message. Complete the process today.,SCAM,SCAM,0.854821110733346
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0169,UP02,UPI/Payment,English,You have received a payment request. Approve it now to complete the transaction. Follow the instructions before the deadline.,SCAM,SCAM,0.8159726932493904
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0170,UP02,UPI/Payment,English,Your UPI payment is waiting for approval. Open the link and confirm the transaction. This request is time-sensitive.,SCAM,SCAM,0.7118765407053501
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0171,UP02,UPI/Payment,English,A refund has been initiated. Enter the requested UPI details to receive the amount. Your access may be restricted if this is not completed.,SCAM,SCAM,0.8176182906896615
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0172,UP02,UPI/Payment,English,Your UPI account has a pending security check. Verify before making another payment. Contact the provided number if you need help.,SCAM,SCAM,0.8539546033254589
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0173,UP02,UPI/Payment,English,Payment failed because verification is incomplete. Contact the support number in this message.,SCAM,SCAM,0.7072188468866929
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0174,UP02,UPI/Payment,English,You have received a payment request. Approve it now to complete the transaction. Do not delay.,SCAM,SCAM,0.7764551467168133
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0175,UP02,UPI/Payment,English,Your UPI payment is waiting for approval. Open the link and confirm the transaction. Verify it immediately.,SCAM,SCAM,0.6724206097733361
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0176,UP02,UPI/Payment,English,A refund has been initiated. Enter the requested UPI details to receive the amount. Complete the process today.,SCAM,SCAM,0.69615361454147
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0177,UP02,UPI/Payment,English,Your UPI account has a pending security check. Verify before making another payment. Follow the instructions before the deadline.,SCAM,SCAM,0.8186267125346185
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0178,UP02,UPI/Payment,English,Payment failed because verification is incomplete. Contact the support number in this message. This request is time-sensitive.,SCAM,SCAM,0.8501272539735297
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0179,UP02,UPI/Payment,English,You have received a payment request. Approve it now to complete the transaction. Your access may be restricted if this is not completed.,SCAM,SCAM,0.8828117567410451
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0180,UP02,UPI/Payment,English,Your UPI payment is waiting for approval. Open the link and confirm the transaction. Contact the provided number if you need help.,SCAM,SCAM,0.765560872790887
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0181,UP02,UPI/Payment,English,A refund has been initiated. Enter the requested UPI details to receive the amount.,SCAM,SCAM,0.5178376627162277
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0182,UP02,UPI/Payment,English,Your UPI account has a pending security check. Verify before making another payment. Do not delay.,SCAM,SCAM,0.7891643978168045
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0183,UP02,UPI/Payment,English,Payment failed because verification is incomplete. Contact the support number in this message. Verify it immediately.,SCAM,SCAM,0.8370791406218496
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0184,UP02,UPI/Payment,English,You have received a payment request. Approve it now to complete the transaction. Complete the process today.,SCAM,SCAM,0.7743930077292754
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0185,UP02,UPI/Payment,English,Your UPI payment is waiting for approval. Open the link and confirm the transaction. Follow the instructions before the deadline.,SCAM,SCAM,0.7267106090220407
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0186,UP02,UPI/Payment,English,A refund has been initiated. Enter the requested UPI details to receive the amount. This request is time-sensitive.,SCAM,SCAM,0.7152570199465322
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0187,UP02,UPI/Payment,English,Your UPI account has a pending security check. Verify before making another payment. Your access may be restricted if this is not completed.,SCAM,SCAM,0.8849018794927108
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0188,UP02,UPI/Payment,English,Payment failed because verification is incomplete. Contact the support number in this message. Contact the provided number if you need help.,SCAM,SCAM,0.8659815119024263
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0189,UP02,UPI/Payment,English,You have received a payment request. Approve it now to complete the transaction.,SCAM,SCAM,0.6336978697287914
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0190,UP02,UPI/Payment,English,Your UPI payment is waiting for approval. Open the link and confirm the transaction. Do not delay.,SCAM,SCAM,0.6746324031668586
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0191,UP02,UPI/Payment,English,A refund has been initiated. Enter the requested UPI details to receive the amount. Verify it immediately.,SCAM,SCAM,0.669432316645068
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0192,UP02,UPI/Payment,English,Your UPI account has a pending security check. Verify before making another payment. Complete the process today.,SCAM,SCAM,0.8031860850804656
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0193,UP02,UPI/Payment,English,Payment failed because verification is incomplete. Contact the support number in this message. Follow the instructions before the deadline.,SCAM,SCAM,0.8667997470446483
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0194,UP02,UPI/Payment,English,You have received a payment request. Approve it now to complete the transaction. This request is time-sensitive.,SCAM,SCAM,0.8011429362938486
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0195,UP02,UPI/Payment,English,Your UPI payment is waiting for approval. Open the link and confirm the transaction. Your access may be restricted if this is not completed.,SCAM,SCAM,0.8045929328553527
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0196,UP02,UPI/Payment,English,A refund has been initiated. Enter the requested UPI details to receive the amount. Contact the provided number if you need help.,SCAM,SCAM,0.7663076900107779
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0197,UP02,UPI/Payment,English,Your UPI account has a pending security check. Verify before making another payment.,SCAM,SCAM,0.6443129242706506
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0198,UP02,UPI/Payment,English,Payment failed because verification is incomplete. Contact the support number in this message. Do not delay.,SCAM,SCAM,0.8380790302816402
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0199,UP02,UPI/Payment,English,You have received a payment request. Approve it now to complete the transaction. Verify it immediately.,SCAM,SCAM,0.7655652124961466
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0200,UP02,UPI/Payment,English,Your UPI payment is waiting for approval. Open the link and confirm the transaction. Complete the process today.,SCAM,SCAM,0.6975563355943871
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0201,UP02,UPI/Payment,English,A refund has been initiated. Enter the requested UPI details to receive the amount. Follow the instructions before the deadline.,SCAM,SCAM,0.7262071433588168
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0202,UP02,UPI/Payment,English,Your UPI account has a pending security check. Verify before making another payment. This request is time-sensitive.,SCAM,SCAM,0.820639867414818
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0203,UP02,UPI/Payment,English,Payment failed because verification is incomplete. Contact the support number in this message. Your access may be restricted if this is not completed.,SCAM,SCAM,0.9096095681466996
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0204,UP02,UPI/Payment,English,You have received a payment request. Approve it now to complete the transaction. Contact the provided number if you need help.,SCAM,SCAM,0.8405543904601276
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0205,UP02,UPI/Payment,Hinglish,Aapka UPI payment approval ka wait kar raha hai. Link open karke transaction confirm karein.,SCAM,SCAM,0.6003816218088546
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0206,UP02,UPI/Payment,Hinglish,Refund process start ho gaya hai. Amount receive karne ke liye UPI details submit karein. Do not delay.,SCAM,SCAM,0.8108677531399718
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0207,UP02,UPI/Payment,Hinglish,UPI security verification pending hai. Payment karne se pehle verify karein. Verify it immediately.,SCAM,SCAM,0.9039097184147087
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0208,UP02,UPI/Payment,Hinglish,Payment fail hua hai. Support number par call karke verification details dein. Complete the process today.,SCAM,SCAM,0.9042940853792377
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0209,UP02,UPI/Payment,Hinglish,Aapko payment request mili hai. Abhi approve karke transaction complete karein. Follow the instructions before the deadline.,SCAM,SCAM,0.8995233249381946
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0210,UP02,UPI/Payment,Hinglish,Aapka UPI payment approval ka wait kar raha hai. Link open karke transaction confirm karein. This request is time-sensitive.,SCAM,SCAM,0.7710406088626799
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0211,UP02,UPI/Payment,Hinglish,Refund process start ho gaya hai. Amount receive karne ke liye UPI details submit karein. Your access may be restricted if this is not completed.,SCAM,SCAM,0.8932120373798037
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0212,UP02,UPI/Payment,Hinglish,UPI security verification pending hai. Payment karne se pehle verify karein. Contact the provided number if you need help.,SCAM,SCAM,0.9318241993754895
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0213,UP02,UPI/Payment,Hinglish,Payment fail hua hai. Support number par call karke verification details dein.,SCAM,SCAM,0.7960730522970553
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0214,UP02,UPI/Payment,Hinglish,Aapko payment request mili hai. Abhi approve karke transaction complete karein. Do not delay.,SCAM,SCAM,0.8819040214767021
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0215,UP02,UPI/Payment,Hinglish,Aapka UPI payment approval ka wait kar raha hai. Link open karke transaction confirm karein. Verify it immediately.,SCAM,SCAM,0.7369516889469993
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0216,UP02,UPI/Payment,Hinglish,Refund process start ho gaya hai. Amount receive karne ke liye UPI details submit karein. Complete the process today.,SCAM,SCAM,0.8175873653790199
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0217,UP02,UPI/Payment,Hinglish,UPI security verification pending hai. Payment karne se pehle verify karein. Follow the instructions before the deadline.,SCAM,SCAM,0.9222284883036371
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0218,UP02,UPI/Payment,Hinglish,Payment fail hua hai. Support number par call karke verification details dein. This request is time-sensitive.,SCAM,SCAM,0.9059163028132182
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0219,UP02,UPI/Payment,Hinglish,Aapko payment request mili hai. Abhi approve karke transaction complete karein. Your access may be restricted if this is not completed.,SCAM,SCAM,0.9344342865220218
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0220,UP02,UPI/Payment,Hinglish,Aapka UPI payment approval ka wait kar raha hai. Link open karke transaction confirm karein. Contact the provided number if you need help.,SCAM,SCAM,0.8087373452504005
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0221,UP02,UPI/Payment,Hinglish,Refund process start ho gaya hai. Amount receive karne ke liye UPI details submit karein.,SCAM,SCAM,0.6949085638758307
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0222,UP02,UPI/Payment,Hinglish,UPI security verification pending hai. Payment karne se pehle verify karein. Do not delay.,SCAM,SCAM,0.9098489860255542
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0223,UP02,UPI/Payment,Hinglish,Payment fail hua hai. Support number par call karke verification details dein. Verify it immediately.,SCAM,SCAM,0.8914350573957043
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0224,UP02,UPI/Payment,Hinglish,Aapko payment request mili hai. Abhi approve karke transaction complete karein. Complete the process today.,SCAM,SCAM,0.8861465532410044
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0225,UP02,UPI/Payment,Hinglish,Aapka UPI payment approval ka wait kar raha hai. Link open karke transaction confirm karein. Follow the instructions before the deadline.,SCAM,SCAM,0.7772543838918334
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0226,UP02,UPI/Payment,Hinglish,Refund process start ho gaya hai. Amount receive karne ke liye UPI details submit karein. This request is time-sensitive.,SCAM,SCAM,0.8351535595884934
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0227,UP02,UPI/Payment,Hinglish,UPI security verification pending hai. Payment karne se pehle verify karein. Your access may be restricted if this is not completed.,SCAM,SCAM,0.9478335294564992
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0228,UP02,UPI/Payment,Hinglish,Payment fail hua hai. Support number par call karke verification details dein. Contact the provided number if you need help.,SCAM,SCAM,0.9150607765030988
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0229,UP02,UPI/Payment,Hinglish,Aapko payment request mili hai. Abhi approve karke transaction complete karein.,SCAM,SCAM,0.7875459278385969
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0230,UP02,UPI/Payment,Hinglish,Aapka UPI payment approval ka wait kar raha hai. Link open karke transaction confirm karein. Do not delay.,SCAM,SCAM,0.7385141556046602
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0231,UP02,UPI/Payment,Hinglish,Refund process start ho gaya hai. Amount receive karne ke liye UPI details submit karein. Verify it immediately.,SCAM,SCAM,0.8097887610364717
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0232,UP02,UPI/Payment,Hinglish,UPI security verification pending hai. Payment karne se pehle verify karein. Complete the process today.,SCAM,SCAM,0.9182317340553792
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0233,UP02,UPI/Payment,Hinglish,Payment fail hua hai. Support number par call karke verification details dein. Follow the instructions before the deadline.,SCAM,SCAM,0.9082467208829423
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0234,UP02,UPI/Payment,Hinglish,Aapko payment request mili hai. Abhi approve karke transaction complete karein. This request is time-sensitive.,SCAM,SCAM,0.8905315205167733
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0235,UP02,UPI/Payment,Hinglish,Aapka UPI payment approval ka wait kar raha hai. Link open karke transaction confirm karein. Your access may be restricted if this is not completed.,SCAM,SCAM,0.8494260676468396
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0236,UP02,UPI/Payment,Hinglish,Refund process start ho gaya hai. Amount receive karne ke liye UPI details submit karein. Contact the provided number if you need help.,SCAM,SCAM,0.8624382372672148
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0237,UP02,UPI/Payment,Hinglish,UPI security verification pending hai. Payment karne se pehle verify karein.,SCAM,SCAM,0.845030144844177
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0238,UP02,UPI/Payment,Hinglish,Payment fail hua hai. Support number par call karke verification details dein. Do not delay.,SCAM,SCAM,0.8918121545494417
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0239,UP02,UPI/Payment,Hinglish,Aapko payment request mili hai. Abhi approve karke transaction complete karein. Verify it immediately.,SCAM,SCAM,0.8814574989012041
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0240,UP02,UPI/Payment,Hinglish,Aapka UPI payment approval ka wait kar raha hai. Link open karke transaction confirm karein. Complete the process today.,SCAM,SCAM,0.7562610745764821
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0241,UP02,UPI/Payment,Hinglish,Refund process start ho gaya hai. Amount receive karne ke liye UPI details submit karein. Follow the instructions before the deadline.,SCAM,SCAM,0.8396703409506802
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0242,UP02,UPI/Payment,Hinglish,UPI security verification pending hai. Payment karne se pehle verify karein. This request is time-sensitive.,SCAM,SCAM,0.9203778740325879
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0243,UP02,UPI/Payment,Hinglish,Payment fail hua hai. Support number par call karke verification details dein. Your access may be restricted if this is not completed.,SCAM,SCAM,0.9415558909652464
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0244,UP02,UPI/Payment,Hinglish,Aapko payment request mili hai. Abhi approve karke transaction complete karein. Contact the provided number if you need help.,SCAM,SCAM,0.9129391496160563
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0245,FS02,Fake Customer Support,English,Customer care here. Your account has a technical issue. Install the support application to fix it.,SCAM,SCAM,0.727834752316261
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0246,FS02,Fake Customer Support,English,We detected a problem with your payment. Call the support number and share the verification details. Do not delay.,SCAM,SCAM,0.8224803022949015
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0247,FS02,Fake Customer Support,English,Your recent transaction needs confirmation. Follow the support instructions immediately. Verify it immediately.,SCAM,SCAM,0.8405401980745885
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0248,FS02,Fake Customer Support,English,This is the customer support desk. Your account will remain restricted until verification is completed. Complete the process today.,SCAM,SCAM,0.88853665566334
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0249,FS02,Fake Customer Support,English,Contact our support team now to prevent your service from being suspended. Follow the instructions before the deadline.,SCAM,SCAM,0.8642762470928965
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0250,FS02,Fake Customer Support,English,Customer care here. Your account has a technical issue. Install the support application to fix it. This request is time-sensitive.,SCAM,SCAM,0.8618840714528696
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0251,FS02,Fake Customer Support,English,We detected a problem with your payment. Call the support number and share the verification details. Your access may be restricted if this is not completed.,SCAM,SCAM,0.9003276038476727
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0252,FS02,Fake Customer Support,English,Your recent transaction needs confirmation. Follow the support instructions immediately. Contact the provided number if you need help.,SCAM,SCAM,0.896607125272667
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0253,FS02,Fake Customer Support,English,This is the customer support desk. Your account will remain restricted until verification is completed.,SCAM,SCAM,0.803104599619498
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0254,FS02,Fake Customer Support,English,Contact our support team now to prevent your service from being suspended. Do not delay.,SCAM,SCAM,0.8367407980359997
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0255,FS02,Fake Customer Support,English,Customer care here. Your account has a technical issue. Install the support application to fix it. Verify it immediately.,SCAM,SCAM,0.8299565278491875
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0256,FS02,Fake Customer Support,English,We detected a problem with your payment. Call the support number and share the verification details. Complete the process today.,SCAM,SCAM,0.8392536488584232
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0257,FS02,Fake Customer Support,English,Your recent transaction needs confirmation. Follow the support instructions immediately. Follow the instructions before the deadline.,SCAM,SCAM,0.852069002686778
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0258,FS02,Fake Customer Support,English,This is the customer support desk. Your account will remain restricted until verification is completed. This request is time-sensitive.,SCAM,SCAM,0.8832508781908818
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0259,FS02,Fake Customer Support,English,Contact our support team now to prevent your service from being suspended. Your access may be restricted if this is not completed.,SCAM,SCAM,0.9088743789602597
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0260,FS02,Fake Customer Support,English,Customer care here. Your account has a technical issue. Install the support application to fix it. Contact the provided number if you need help.,SCAM,SCAM,0.885948814888354
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0261,FS02,Fake Customer Support,English,We detected a problem with your payment. Call the support number and share the verification details.,SCAM,SCAM,0.7052019966091103
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0262,FS02,Fake Customer Support,English,Your recent transaction needs confirmation. Follow the support instructions immediately. Do not delay.,SCAM,SCAM,0.8556791165754478
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0263,FS02,Fake Customer Support,English,This is the customer support desk. Your account will remain restricted until verification is completed. Verify it immediately.,SCAM,SCAM,0.8762803311979948
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0264,FS02,Fake Customer Support,English,Contact our support team now to prevent your service from being suspended. Complete the process today.,SCAM,SCAM,0.8523488197610998
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0265,FS02,Fake Customer Support,English,Customer care here. Your account has a technical issue. Install the support application to fix it. Follow the instructions before the deadline.,SCAM,SCAM,0.8665362179117438
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0266,FS02,Fake Customer Support,English,We detected a problem with your payment. Call the support number and share the verification details. This request is time-sensitive.,SCAM,SCAM,0.8476998912750249
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0267,FS02,Fake Customer Support,English,Your recent transaction needs confirmation. Follow the support instructions immediately. Your access may be restricted if this is not completed.,SCAM,SCAM,0.9193482521628896
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0268,FS02,Fake Customer Support,English,This is the customer support desk. Your account will remain restricted until verification is completed. Contact the provided number if you need help.,SCAM,SCAM,0.9104810243508247
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0269,FS02,Fake Customer Support,English,Contact our support team now to prevent your service from being suspended.,SCAM,SCAM,0.7204138894075286
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0270,FS02,Fake Customer Support,English,Customer care here. Your account has a technical issue. Install the support application to fix it. Do not delay.,SCAM,SCAM,0.83908798035173
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0271,FS02,Fake Customer Support,English,We detected a problem with your payment. Call the support number and share the verification details. Verify it immediately.,SCAM,SCAM,0.8200943009012441
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0272,FS02,Fake Customer Support,English,Your recent transaction needs confirmation. Follow the support instructions immediately. Complete the process today.,SCAM,SCAM,0.8714100454067237
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0273,FS02,Fake Customer Support,English,This is the customer support desk. Your account will remain restricted until verification is completed. Follow the instructions before the deadline.,SCAM,SCAM,0.8965801470241632
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0274,FS02,Fake Customer Support,English,Contact our support team now to prevent your service from being suspended. This request is time-sensitive.,SCAM,SCAM,0.8601648352027408
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0275,FS02,Fake Customer Support,English,Customer care here. Your account has a technical issue. Install the support application to fix it. Your access may be restricted if this is not completed.,SCAM,SCAM,0.9095403058954172
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0276,FS02,Fake Customer Support,English,We detected a problem with your payment. Call the support number and share the verification details. Contact the provided number if you need help.,SCAM,SCAM,0.8696638548224896
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0277,FS02,Fake Customer Support,English,Your recent transaction needs confirmation. Follow the support instructions immediately.,SCAM,SCAM,0.7427525045172704
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0278,FS02,Fake Customer Support,English,This is the customer support desk. Your account will remain restricted until verification is completed. Do not delay.,SCAM,SCAM,0.8769282200028965
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0279,FS02,Fake Customer Support,English,Contact our support team now to prevent your service from being suspended. Verify it immediately.,SCAM,SCAM,0.8356948978237071
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0280,FS02,Fake Customer Support,English,Customer care here. Your account has a technical issue. Install the support application to fix it. Complete the process today.,SCAM,SCAM,0.8539503029957776
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0281,FS02,Fake Customer Support,English,We detected a problem with your payment. Call the support number and share the verification details. Follow the instructions before the deadline.,SCAM,SCAM,0.8540913041682279
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0282,FS02,Fake Customer Support,English,Your recent transaction needs confirmation. Follow the support instructions immediately. This request is time-sensitive.,SCAM,SCAM,0.8759501934643305
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0283,FS02,Fake Customer Support,English,This is the customer support desk. Your account will remain restricted until verification is completed. Your access may be restricted if this is not completed.,SCAM,SCAM,0.9115131577973276
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0284,FS02,Fake Customer Support,English,Contact our support team now to prevent your service from being suspended. Contact the provided number if you need help.,SCAM,SCAM,0.8785920746959954
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0285,FS02,Fake Customer Support,Hinglish,"Customer care se bol raha hoon, account me technical issue hai. Support app install karein.",SCAM,SCAM,0.6673595833337008
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0286,FS02,Fake Customer Support,Hinglish,Payment me problem detect hui hai. Support number par call karke verification details share karein. Do not delay.,SCAM,SCAM,0.836707742082461
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0287,FS02,Fake Customer Support,Hinglish,Aapki recent transaction ko confirmation chahiye. Instructions abhi follow karein. Verify it immediately.,SCAM,SCAM,0.8503765987438122
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0288,FS02,Fake Customer Support,Hinglish,Support desk se message hai. Verification complete hone tak account restricted rahega. Complete the process today.,SCAM,SCAM,0.9128089413257122
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0289,FS02,Fake Customer Support,Hinglish,Service suspend hone se pehle support team se turant contact karein. Follow the instructions before the deadline.,SCAM,SCAM,0.911701514144309
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0290,FS02,Fake Customer Support,Hinglish,"Customer care se bol raha hoon, account me technical issue hai. Support app install karein. This request is time-sensitive.",SCAM,SCAM,0.8176261193075253
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0291,FS02,Fake Customer Support,Hinglish,Payment me problem detect hui hai. Support number par call karke verification details share karein. Your access may be restricted if this is not completed.,SCAM,SCAM,0.90748757811685
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0292,FS02,Fake Customer Support,Hinglish,Aapki recent transaction ko confirmation chahiye. Instructions abhi follow karein. Contact the provided number if you need help.,SCAM,SCAM,0.892635953858925
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0293,FS02,Fake Customer Support,Hinglish,Support desk se message hai. Verification complete hone tak account restricted rahega.,SCAM,SCAM,0.8296729420432056
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0294,FS02,Fake Customer Support,Hinglish,Service suspend hone se pehle support team se turant contact karein. Do not delay.,SCAM,SCAM,0.8970347636765659
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0295,FS02,Fake Customer Support,Hinglish,"Customer care se bol raha hoon, account me technical issue hai. Support app install karein. Verify it immediately.",SCAM,SCAM,0.7896432240820386
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0296,FS02,Fake Customer Support,Hinglish,Payment me problem detect hui hai. Support number par call karke verification details share karein. Complete the process today.,SCAM,SCAM,0.8496090440949118
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0297,FS02,Fake Customer Support,Hinglish,Aapki recent transaction ko confirmation chahiye. Instructions abhi follow karein. Follow the instructions before the deadline.,SCAM,SCAM,0.8546896826085931
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0298,FS02,Fake Customer Support,Hinglish,Support desk se message hai. Verification complete hone tak account restricted rahega. This request is time-sensitive.,SCAM,SCAM,0.9202450652703149
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0299,FS02,Fake Customer Support,Hinglish,Service suspend hone se pehle support team se turant contact karein. Your access may be restricted if this is not completed.,SCAM,SCAM,0.9419001586071298
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0300,FS02,Fake Customer Support,Hinglish,"Customer care se bol raha hoon, account me technical issue hai. Support app install karein. Contact the provided number if you need help.",SCAM,SCAM,0.8479275442395836
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0301,FS02,Fake Customer Support,Hinglish,Payment me problem detect hui hai. Support number par call karke verification details share karein.,SCAM,SCAM,0.7337508340986936
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0302,FS02,Fake Customer Support,Hinglish,Aapki recent transaction ko confirmation chahiye. Instructions abhi follow karein. Do not delay.,SCAM,SCAM,0.8508978163856583
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0303,FS02,Fake Customer Support,Hinglish,Support desk se message hai. Verification complete hone tak account restricted rahega. Verify it immediately.,SCAM,SCAM,0.9091705972102152
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0304,FS02,Fake Customer Support,Hinglish,Service suspend hone se pehle support team se turant contact karein. Complete the process today.,SCAM,SCAM,0.9073957391662782
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0305,FS02,Fake Customer Support,Hinglish,"Customer care se bol raha hoon, account me technical issue hai. Support app install karein. Follow the instructions before the deadline.",SCAM,SCAM,0.8226407323307264
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0306,FS02,Fake Customer Support,Hinglish,Payment me problem detect hui hai. Support number par call karke verification details share karein. This request is time-sensitive.,SCAM,SCAM,0.8574729418774947
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0307,FS02,Fake Customer Support,Hinglish,Aapki recent transaction ko confirmation chahiye. Instructions abhi follow karein. Your access may be restricted if this is not completed.,SCAM,SCAM,0.921473252332535
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0308,FS02,Fake Customer Support,Hinglish,Support desk se message hai. Verification complete hone tak account restricted rahega. Contact the provided number if you need help.,SCAM,SCAM,0.9315551390998391
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0309,FS02,Fake Customer Support,Hinglish,Service suspend hone se pehle support team se turant contact karein.,SCAM,SCAM,0.8149180782269966
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0310,FS02,Fake Customer Support,Hinglish,"Customer care se bol raha hoon, account me technical issue hai. Support app install karein. Do not delay.",SCAM,SCAM,0.7908658033921054
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0311,FS02,Fake Customer Support,Hinglish,Payment me problem detect hui hai. Support number par call karke verification details share karein. Verify it immediately.,SCAM,SCAM,0.8358232542047614
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0312,FS02,Fake Customer Support,Hinglish,Aapki recent transaction ko confirmation chahiye. Instructions abhi follow karein. Complete the process today.,SCAM,SCAM,0.8680554366342719
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0313,FS02,Fake Customer Support,Hinglish,Support desk se message hai. Verification complete hone tak account restricted rahega. Follow the instructions before the deadline.,SCAM,SCAM,0.9220160046917686
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0314,FS02,Fake Customer Support,Hinglish,Service suspend hone se pehle support team se turant contact karein. This request is time-sensitive.,SCAM,SCAM,0.9095348671161196
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0315,FS02,Fake Customer Support,Hinglish,"Customer care se bol raha hoon, account me technical issue hai. Support app install karein. Your access may be restricted if this is not completed.",SCAM,SCAM,0.881553238575556
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0316,FS02,Fake Customer Support,Hinglish,Payment me problem detect hui hai. Support number par call karke verification details share karein. Contact the provided number if you need help.,SCAM,SCAM,0.8758971217069004
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0317,FS02,Fake Customer Support,Hinglish,Aapki recent transaction ko confirmation chahiye. Instructions abhi follow karein.,SCAM,SCAM,0.70197032855395
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0318,FS02,Fake Customer Support,Hinglish,Support desk se message hai. Verification complete hone tak account restricted rahega. Do not delay.,SCAM,SCAM,0.9093731311871811
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0319,FS02,Fake Customer Support,Hinglish,Service suspend hone se pehle support team se turant contact karein. Verify it immediately.,SCAM,SCAM,0.8967218574992076
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0320,FS02,Fake Customer Support,Hinglish,"Customer care se bol raha hoon, account me technical issue hai. Support app install karein. Complete the process today.",SCAM,SCAM,0.8064246914505919
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0321,FS02,Fake Customer Support,Hinglish,Payment me problem detect hui hai. Support number par call karke verification details share karein. Follow the instructions before the deadline.,SCAM,SCAM,0.8613053065068964
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0322,FS02,Fake Customer Support,Hinglish,Aapki recent transaction ko confirmation chahiye. Instructions abhi follow karein. This request is time-sensitive.,SCAM,SCAM,0.8713928586671391
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0323,FS02,Fake Customer Support,Hinglish,Support desk se message hai. Verification complete hone tak account restricted rahega. Your access may be restricted if this is not completed.,SCAM,SCAM,0.9460478499401426
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0324,FS02,Fake Customer Support,Hinglish,Service suspend hone se pehle support team se turant contact karein. Contact the provided number if you need help.,SCAM,SCAM,0.9178949521536752
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0485,DP02,Delivery/Parcel,English,Your parcel could not be delivered because the address needs verification. Use the link to update it.,SCAM,SCAM,0.6813434467763053
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0486,DP02,Delivery/Parcel,English,Delivery attempt failed. Pay the small rescheduling charge to receive your parcel. Do not delay.,SCAM,SCAM,0.7361961042911325
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0487,DP02,Delivery/Parcel,English,Your shipment is on hold. Confirm the delivery information immediately. Verify it immediately.,SCAM,SCAM,0.7518277270402103
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0488,DP02,Delivery/Parcel,English,Your package requires a processing payment before delivery can continue. Complete the process today.,SCAM,SCAM,0.7535072332702598
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0489,DP02,Delivery/Parcel,English,Courier update: your parcel will be returned unless the requested verification is completed. Follow the instructions before the deadline.,SCAM,SCAM,0.8714261012733484
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0490,DP02,Delivery/Parcel,English,Your parcel could not be delivered because the address needs verification. Use the link to update it. This request is time-sensitive.,SCAM,SCAM,0.8201352688360412
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0491,DP02,Delivery/Parcel,English,Delivery attempt failed. Pay the small rescheduling charge to receive your parcel. Your access may be restricted if this is not completed.,SCAM,SCAM,0.8600539192262388
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0492,DP02,Delivery/Parcel,English,Your shipment is on hold. Confirm the delivery information immediately. Contact the provided number if you need help.,SCAM,SCAM,0.837777956982458
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0493,DP02,Delivery/Parcel,English,Your package requires a processing payment before delivery can continue.,SCAM,SCAM,0.5598281618865985
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0494,DP02,Delivery/Parcel,English,Courier update: your parcel will be returned unless the requested verification is completed. Do not delay.,SCAM,SCAM,0.8461062859614613
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0495,DP02,Delivery/Parcel,English,Your parcel could not be delivered because the address needs verification. Use the link to update it. Verify it immediately.,SCAM,SCAM,0.78423530103894
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0496,DP02,Delivery/Parcel,English,Delivery attempt failed. Pay the small rescheduling charge to receive your parcel. Complete the process today.,SCAM,SCAM,0.7608765386797465
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0497,DP02,Delivery/Parcel,English,Your shipment is on hold. Confirm the delivery information immediately. Follow the instructions before the deadline.,SCAM,SCAM,0.8083700600128519
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0498,DP02,Delivery/Parcel,English,Your package requires a processing payment before delivery can continue. This request is time-sensitive.,SCAM,SCAM,0.770404466408261
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0499,DP02,Delivery/Parcel,English,Courier update: your parcel will be returned unless the requested verification is completed. Your access may be restricted if this is not completed.,SCAM,SCAM,0.9016136938245916
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0500,DP02,Delivery/Parcel,English,Your parcel could not be delivered because the address needs verification. Use the link to update it. Contact the provided number if you need help.,SCAM,SCAM,0.8514669581506442
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0501,DP02,Delivery/Parcel,English,Delivery attempt failed. Pay the small rescheduling charge to receive your parcel.,SCAM,SCAM,0.5555166090116029
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0502,DP02,Delivery/Parcel,English,Your shipment is on hold. Confirm the delivery information immediately. Do not delay.,SCAM,SCAM,0.7676518224231179
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0503,DP02,Delivery/Parcel,English,Your package requires a processing payment before delivery can continue. Verify it immediately.,SCAM,SCAM,0.7271016412192015
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0504,DP02,Delivery/Parcel,English,Courier update: your parcel will be returned unless the requested verification is completed. Complete the process today.,SCAM,SCAM,0.8597613459645205
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0505,DP02,Delivery/Parcel,English,Your parcel could not be delivered because the address needs verification. Use the link to update it. Follow the instructions before the deadline.,SCAM,SCAM,0.8270847554183374
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0506,DP02,Delivery/Parcel,English,Delivery attempt failed. Pay the small rescheduling charge to receive your parcel. This request is time-sensitive.,SCAM,SCAM,0.777488678068228
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0507,DP02,Delivery/Parcel,English,Your shipment is on hold. Confirm the delivery information immediately. Your access may be restricted if this is not completed.,SCAM,SCAM,0.8682262790698193
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0508,DP02,Delivery/Parcel,English,Your package requires a processing payment before delivery can continue. Contact the provided number if you need help.,SCAM,SCAM,0.8144944551797518
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0509,DP02,Delivery/Parcel,English,Courier update: your parcel will be returned unless the requested verification is completed.,SCAM,SCAM,0.7552190911907388
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0510,DP02,Delivery/Parcel,English,Your parcel could not be delivered because the address needs verification. Use the link to update it. Do not delay.,SCAM,SCAM,0.7838918808545269
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0511,DP02,Delivery/Parcel,English,Delivery attempt failed. Pay the small rescheduling charge to receive your parcel. Verify it immediately.,SCAM,SCAM,0.7341062886553467
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0512,DP02,Delivery/Parcel,English,Your shipment is on hold. Confirm the delivery information immediately. Complete the process today.,SCAM,SCAM,0.7878533887780553
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0513,DP02,Delivery/Parcel,English,Your package requires a processing payment before delivery can continue. Follow the instructions before the deadline.,SCAM,SCAM,0.7689974503963056
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0514,DP02,Delivery/Parcel,English,Courier update: your parcel will be returned unless the requested verification is completed. This request is time-sensitive.,SCAM,SCAM,0.8635952851439945
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0515,DP02,Delivery/Parcel,English,Your parcel could not be delivered because the address needs verification. Use the link to update it. Your access may be restricted if this is not completed.,SCAM,SCAM,0.869177144990303
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0516,DP02,Delivery/Parcel,English,Delivery attempt failed. Pay the small rescheduling charge to receive your parcel. Contact the provided number if you need help.,SCAM,SCAM,0.8209333661129135
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0517,DP02,Delivery/Parcel,English,Your shipment is on hold. Confirm the delivery information immediately.,SCAM,SCAM,0.6189649196330325
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0518,DP02,Delivery/Parcel,English,Your package requires a processing payment before delivery can continue. Do not delay.,SCAM,SCAM,0.7292031169915733
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0519,DP02,Delivery/Parcel,English,Courier update: your parcel will be returned unless the requested verification is completed. Verify it immediately.,SCAM,SCAM,0.8451652094809956
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0520,DP02,Delivery/Parcel,English,Your parcel could not be delivered because the address needs verification. Use the link to update it. Complete the process today.,SCAM,SCAM,0.8093414860595731
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0521,DP02,Delivery/Parcel,English,Delivery attempt failed. Pay the small rescheduling charge to receive your parcel. Follow the instructions before the deadline.,SCAM,SCAM,0.785982589074839
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0522,DP02,Delivery/Parcel,English,Your shipment is on hold. Confirm the delivery information immediately. This request is time-sensitive.,SCAM,SCAM,0.7965505174607949
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0523,DP02,Delivery/Parcel,English,Your package requires a processing payment before delivery can continue. Your access may be restricted if this is not completed.,SCAM,SCAM,0.854115886881512
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0524,DP02,Delivery/Parcel,English,Courier update: your parcel will be returned unless the requested verification is completed. Contact the provided number if you need help.,SCAM,SCAM,0.8895913392883661
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0525,DP02,Delivery/Parcel,Hinglish,Aapka parcel deliver nahi hua kyunki address verification pending hai. Link se update karein.,SCAM,SCAM,0.7579201057455162
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0526,DP02,Delivery/Parcel,Hinglish,Delivery attempt fail hua. Parcel receive karne ke liye small rescheduling charge pay karein. Do not delay.,SCAM,SCAM,0.8311158424833971
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0527,DP02,Delivery/Parcel,Hinglish,Shipment hold par hai. Delivery information turant confirm karein. Verify it immediately.,SCAM,SCAM,0.8600471608973447
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0528,DP02,Delivery/Parcel,Hinglish,Parcel ke liye processing payment pending hai. Payment complete karein. Complete the process today.,SCAM,SCAM,0.895991781241796
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0529,DP02,Delivery/Parcel,Hinglish,Courier update: verification nahi kiya to parcel return ho jayega. Follow the instructions before the deadline.,SCAM,SCAM,0.7951355636434998
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0530,DP02,Delivery/Parcel,Hinglish,Aapka parcel deliver nahi hua kyunki address verification pending hai. Link se update karein. This request is time-sensitive.,SCAM,SCAM,0.8749723107002868
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0531,DP02,Delivery/Parcel,Hinglish,Delivery attempt fail hua. Parcel receive karne ke liye small rescheduling charge pay karein. Your access may be restricted if this is not completed.,SCAM,SCAM,0.9061191112865048
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0532,DP02,Delivery/Parcel,Hinglish,Shipment hold par hai. Delivery information turant confirm karein. Contact the provided number if you need help.,SCAM,SCAM,0.8990096461285056
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0533,DP02,Delivery/Parcel,Hinglish,Parcel ke liye processing payment pending hai. Payment complete karein.,SCAM,SCAM,0.8110121328627069
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0534,DP02,Delivery/Parcel,Hinglish,Courier update: verification nahi kiya to parcel return ho jayega. Do not delay.,SCAM,SCAM,0.749847897420823
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0535,DP02,Delivery/Parcel,Hinglish,Aapka parcel deliver nahi hua kyunki address verification pending hai. Link se update karein. Verify it immediately.,SCAM,SCAM,0.8557879649553528
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0536,DP02,Delivery/Parcel,Hinglish,Delivery attempt fail hua. Parcel receive karne ke liye small rescheduling charge pay karein. Complete the process today.,SCAM,SCAM,0.8451571653016451
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0537,DP02,Delivery/Parcel,Hinglish,Shipment hold par hai. Delivery information turant confirm karein. Follow the instructions before the deadline.,SCAM,SCAM,0.8825663705907782
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0538,DP02,Delivery/Parcel,Hinglish,Parcel ke liye processing payment pending hai. Payment complete karein. This request is time-sensitive.,SCAM,SCAM,0.9055294018505743
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0539,DP02,Delivery/Parcel,Hinglish,Courier update: verification nahi kiya to parcel return ho jayega. Your access may be restricted if this is not completed.,SCAM,SCAM,0.8728295409340499
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0540,DP02,Delivery/Parcel,Hinglish,Aapka parcel deliver nahi hua kyunki address verification pending hai. Link se update karein. Contact the provided number if you need help.,SCAM,SCAM,0.8952313416549814
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0541,DP02,Delivery/Parcel,Hinglish,Delivery attempt fail hua. Parcel receive karne ke liye small rescheduling charge pay karein.,SCAM,SCAM,0.7177373578066
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0542,DP02,Delivery/Parcel,Hinglish,Shipment hold par hai. Delivery information turant confirm karein. Do not delay.,SCAM,SCAM,0.8605907519724376
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0543,DP02,Delivery/Parcel,Hinglish,Parcel ke liye processing payment pending hai. Payment complete karein. Verify it immediately.,SCAM,SCAM,0.8918528301793992
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0544,DP02,Delivery/Parcel,Hinglish,Courier update: verification nahi kiya to parcel return ho jayega. Complete the process today.,SCAM,SCAM,0.7728934539782112
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0545,DP02,Delivery/Parcel,Hinglish,Aapka parcel deliver nahi hua kyunki address verification pending hai. Link se update karein. Follow the instructions before the deadline.,SCAM,SCAM,0.8783194172723298
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0546,DP02,Delivery/Parcel,Hinglish,Delivery attempt fail hua. Parcel receive karne ke liye small rescheduling charge pay karein. This request is time-sensitive.,SCAM,SCAM,0.8532819629857853
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0547,DP02,Delivery/Parcel,Hinglish,Shipment hold par hai. Delivery information turant confirm karein. Your access may be restricted if this is not completed.,SCAM,SCAM,0.9251637735537673
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0548,DP02,Delivery/Parcel,Hinglish,Parcel ke liye processing payment pending hai. Payment complete karein. Contact the provided number if you need help.,SCAM,SCAM,0.9198579609444069
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0549,DP02,Delivery/Parcel,Hinglish,Courier update: verification nahi kiya to parcel return ho jayega.,SCAM,SCAM,0.5810616212907288
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0550,DP02,Delivery/Parcel,Hinglish,Aapka parcel deliver nahi hua kyunki address verification pending hai. Link se update karein. Do not delay.,SCAM,SCAM,0.8565139135764775
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0551,DP02,Delivery/Parcel,Hinglish,Delivery attempt fail hua. Parcel receive karne ke liye small rescheduling charge pay karein. Verify it immediately.,SCAM,SCAM,0.8301856584988679
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0552,DP02,Delivery/Parcel,Hinglish,Shipment hold par hai. Delivery information turant confirm karein. Complete the process today.,SCAM,SCAM,0.8754719453335769
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0553,DP02,Delivery/Parcel,Hinglish,Parcel ke liye processing payment pending hai. Payment complete karein. Follow the instructions before the deadline.,SCAM,SCAM,0.9078658255091593
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0554,DP02,Delivery/Parcel,Hinglish,Courier update: verification nahi kiya to parcel return ho jayega. This request is time-sensitive.,SCAM,SCAM,0.7882752913486072
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0555,DP02,Delivery/Parcel,Hinglish,Aapka parcel deliver nahi hua kyunki address verification pending hai. Link se update karein. Your access may be restricted if this is not completed.,SCAM,SCAM,0.919621923918284
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0556,DP02,Delivery/Parcel,Hinglish,Delivery attempt fail hua. Parcel receive karne ke liye small rescheduling charge pay karein. Contact the provided number if you need help.,SCAM,SCAM,0.8777283485953687
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0557,DP02,Delivery/Parcel,Hinglish,Shipment hold par hai. Delivery information turant confirm karein.,SCAM,SCAM,0.7355305648564107
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0558,DP02,Delivery/Parcel,Hinglish,Parcel ke liye processing payment pending hai. Payment complete karein. Do not delay.,SCAM,SCAM,0.8922534076546363
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0559,DP02,Delivery/Parcel,Hinglish,Courier update: verification nahi kiya to parcel return ho jayega. Verify it immediately.,SCAM,SCAM,0.7479208595710494
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0560,DP02,Delivery/Parcel,Hinglish,Aapka parcel deliver nahi hua kyunki address verification pending hai. Link se update karein. Complete the process today.,SCAM,SCAM,0.8687759027424591
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0561,DP02,Delivery/Parcel,Hinglish,Delivery attempt fail hua. Parcel receive karne ke liye small rescheduling charge pay karein. Follow the instructions before the deadline.,SCAM,SCAM,0.8573364016777569
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0562,DP02,Delivery/Parcel,Hinglish,Shipment hold par hai. Delivery information turant confirm karein. This request is time-sensitive.,SCAM,SCAM,0.8793304156970838
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0563,DP02,Delivery/Parcel,Hinglish,Parcel ke liye processing payment pending hai. Payment complete karein. Your access may be restricted if this is not completed.,SCAM,SCAM,0.9391321022909267
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0564,DP02,Delivery/Parcel,Hinglish,Courier update: verification nahi kiya to parcel return ho jayega. Contact the provided number if you need help.,SCAM,SCAM,0.828957715379721
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0565,GP02,Government/Police,English,Your identity record is linked to a pending case. Contact the verification officer immediately.,SCAM,SCAM,0.7826924492429759
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0566,GP02,Government/Police,English,An official notice requires you to confirm your identity through the provided contact. Do not delay.,SCAM,SCAM,0.8332169725560197
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0567,GP02,Government/Police,English,Your document verification has been flagged. Complete the requested process to avoid further action. Verify it immediately.,SCAM,SCAM,0.8617049759768408
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0568,GP02,Government/Police,English,Government verification is pending. Do not delay the requested confirmation. Complete the process today.,SCAM,SCAM,0.9152932709222674
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0569,GP02,Government/Police,English,Your account has been associated with an investigation. Follow the instructions in this message immediately. Follow the instructions before the deadline.,SCAM,SCAM,0.8213182351292352
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0570,GP02,Government/Police,English,Your identity record is linked to a pending case. Contact the verification officer immediately. This request is time-sensitive.,SCAM,SCAM,0.8777668204819067
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0571,GP02,Government/Police,English,An official notice requires you to confirm your identity through the provided contact. Your access may be restricted if this is not completed.,SCAM,SCAM,0.9044514797526909
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0572,GP02,Government/Police,English,Your document verification has been flagged. Complete the requested process to avoid further action. Contact the provided number if you need help.,SCAM,SCAM,0.9017903540208744
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0573,GP02,Government/Police,English,Government verification is pending. Do not delay the requested confirmation.,SCAM,SCAM,0.8336166215751325
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0574,GP02,Government/Police,English,Your account has been associated with an investigation. Follow the instructions in this message immediately. Do not delay.,SCAM,SCAM,0.8229104613215401
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0575,GP02,Government/Police,English,Your identity record is linked to a pending case. Contact the verification officer immediately. Verify it immediately.,SCAM,SCAM,0.8532834702145299
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0576,GP02,Government/Police,English,An official notice requires you to confirm your identity through the provided contact. Complete the process today.,SCAM,SCAM,0.8474164463302865
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0577,GP02,Government/Police,English,Your document verification has been flagged. Complete the requested process to avoid further action. Follow the instructions before the deadline.,SCAM,SCAM,0.8856977660752983
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0578,GP02,Government/Police,English,Government verification is pending. Do not delay the requested confirmation. This request is time-sensitive.,SCAM,SCAM,0.9147380207011817
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0579,GP02,Government/Police,English,Your account has been associated with an investigation. Follow the instructions in this message immediately. Your access may be restricted if this is not completed.,SCAM,SCAM,0.8960970601981311
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0580,GP02,Government/Police,English,Your identity record is linked to a pending case. Contact the verification officer immediately. Contact the provided number if you need help.,SCAM,SCAM,0.8903568557525403
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0581,GP02,Government/Police,English,An official notice requires you to confirm your identity through the provided contact.,SCAM,SCAM,0.7297310587567547
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0582,GP02,Government/Police,English,Your document verification has been flagged. Complete the requested process to avoid further action. Do not delay.,SCAM,SCAM,0.8624778849018431
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0583,GP02,Government/Police,English,Government verification is pending. Do not delay the requested confirmation. Verify it immediately.,SCAM,SCAM,0.905474280087887
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0584,GP02,Government/Police,English,Your account has been associated with an investigation. Follow the instructions in this message immediately. Complete the process today.,SCAM,SCAM,0.8389107210097525
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0585,GP02,Government/Police,English,Your identity record is linked to a pending case. Contact the verification officer immediately. Follow the instructions before the deadline.,SCAM,SCAM,0.8845468316978908
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0586,GP02,Government/Police,English,An official notice requires you to confirm your identity through the provided contact. This request is time-sensitive.,SCAM,SCAM,0.8560588552838274
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0587,GP02,Government/Police,English,Your document verification has been flagged. Complete the requested process to avoid further action. Your access may be restricted if this is not completed.,SCAM,SCAM,0.9226269653707778
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0588,GP02,Government/Police,English,Government verification is pending. Do not delay the requested confirmation. Contact the provided number if you need help.,SCAM,SCAM,0.9299698430127501
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0589,GP02,Government/Police,English,Your account has been associated with an investigation. Follow the instructions in this message immediately.,SCAM,SCAM,0.7068918568928406
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0590,GP02,Government/Police,English,Your identity record is linked to a pending case. Contact the verification officer immediately. Do not delay.,SCAM,SCAM,0.8630655249698994
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0591,GP02,Government/Police,English,An official notice requires you to confirm your identity through the provided contact. Verify it immediately.,SCAM,SCAM,0.8321425401241659
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0592,GP02,Government/Police,English,Your document verification has been flagged. Complete the requested process to avoid further action. Complete the process today.,SCAM,SCAM,0.849069561181612
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0593,GP02,Government/Police,English,Government verification is pending. Do not delay the requested confirmation. Follow the instructions before the deadline.,SCAM,SCAM,0.9200602922939977
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0594,GP02,Government/Police,English,Your account has been associated with an investigation. Follow the instructions in this message immediately. This request is time-sensitive.,SCAM,SCAM,0.8412084037864004
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0595,GP02,Government/Police,English,Your identity record is linked to a pending case. Contact the verification officer immediately. Your access may be restricted if this is not completed.,SCAM,SCAM,0.9175750016501643
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0596,GP02,Government/Police,English,An official notice requires you to confirm your identity through the provided contact. Contact the provided number if you need help.,SCAM,SCAM,0.8610647058632497
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0597,GP02,Government/Police,English,Your document verification has been flagged. Complete the requested process to avoid further action.,SCAM,SCAM,0.7559026794334135
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0598,GP02,Government/Police,English,Government verification is pending. Do not delay the requested confirmation. Do not delay.,SCAM,SCAM,0.8639769427589074
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0599,GP02,Government/Police,English,Your account has been associated with an investigation. Follow the instructions in this message immediately. Verify it immediately.,SCAM,SCAM,0.8095427024612222
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0600,GP02,Government/Police,English,Your identity record is linked to a pending case. Contact the verification officer immediately. Complete the process today.,SCAM,SCAM,0.8746158575848192
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0601,GP02,Government/Police,English,An official notice requires you to confirm your identity through the provided contact. Follow the instructions before the deadline.,SCAM,SCAM,0.8608084618719867
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0602,GP02,Government/Police,English,Your document verification has been flagged. Complete the requested process to avoid further action. This request is time-sensitive.,SCAM,SCAM,0.8818404207106618
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0603,GP02,Government/Police,English,Government verification is pending. Do not delay the requested confirmation. Your access may be restricted if this is not completed.,SCAM,SCAM,0.9423046197660955
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0604,GP02,Government/Police,English,Your account has been associated with an investigation. Follow the instructions in this message immediately. Contact the provided number if you need help.,SCAM,SCAM,0.8744801733114075
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0605,GP02,Government/Police,Hinglish,Aapki identity ek pending case se linked hai. Verification officer se turant contact karein.,SCAM,SCAM,0.8180711310183791
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0606,GP02,Government/Police,Hinglish,Official notice ke according identity confirm karni hai. Diye gaye contact par reply karein. Do not delay.,SCAM,SCAM,0.8633849823006203
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0607,GP02,Government/Police,Hinglish,Document verification flag hua hai. Further action se bachne ke liye process complete karein. Verify it immediately.,SCAM,SCAM,0.9215032860881853
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0608,GP02,Government/Police,Hinglish,Government verification pending hai. Requested confirmation delay mat karein. Complete the process today.,SCAM,SCAM,0.8960021968251815
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0609,GP02,Government/Police,Hinglish,Aapka account investigation se linked hai. Message ke instructions turant follow karein. Follow the instructions before the deadline.,SCAM,SCAM,0.9235828357368274
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0610,GP02,Government/Police,Hinglish,Aapki identity ek pending case se linked hai. Verification officer se turant contact karein. This request is time-sensitive.,SCAM,SCAM,0.9087269101794464
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0611,GP02,Government/Police,Hinglish,Official notice ke according identity confirm karni hai. Diye gaye contact par reply karein. Your access may be restricted if this is not completed.,SCAM,SCAM,0.9244747626143693
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0612,GP02,Government/Police,Hinglish,Document verification flag hua hai. Further action se bachne ke liye process complete karein. Contact the provided number if you need help.,SCAM,SCAM,0.9399901796965079
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0613,GP02,Government/Police,Hinglish,Government verification pending hai. Requested confirmation delay mat karein.,SCAM,SCAM,0.7860438871824283
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0614,GP02,Government/Police,Hinglish,Aapka account investigation se linked hai. Message ke instructions turant follow karein. Do not delay.,SCAM,SCAM,0.9278989487064045
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0615,GP02,Government/Police,Hinglish,Aapki identity ek pending case se linked hai. Verification officer se turant contact karein. Verify it immediately.,SCAM,SCAM,0.8956807497096119
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0616,GP02,Government/Police,Hinglish,Official notice ke according identity confirm karni hai. Diye gaye contact par reply karein. Complete the process today.,SCAM,SCAM,0.875955984118227
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0617,GP02,Government/Police,Hinglish,Document verification flag hua hai. Further action se bachne ke liye process complete karein. Follow the instructions before the deadline.,SCAM,SCAM,0.9319862340510098
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0618,GP02,Government/Police,Hinglish,Government verification pending hai. Requested confirmation delay mat karein. This request is time-sensitive.,SCAM,SCAM,0.8985875782445317
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0619,GP02,Government/Police,Hinglish,Aapka account investigation se linked hai. Message ke instructions turant follow karein. Your access may be restricted if this is not completed.,SCAM,SCAM,0.9567783597847634
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0620,GP02,Government/Police,Hinglish,Aapki identity ek pending case se linked hai. Verification officer se turant contact karein. Contact the provided number if you need help.,SCAM,SCAM,0.9177254344429319
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0621,GP02,Government/Police,Hinglish,Official notice ke according identity confirm karni hai. Diye gaye contact par reply karein.,SCAM,SCAM,0.7612938997137679
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0622,GP02,Government/Police,Hinglish,Document verification flag hua hai. Further action se bachne ke liye process complete karein. Do not delay.,SCAM,SCAM,0.9217134540924329
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0623,GP02,Government/Police,Hinglish,Government verification pending hai. Requested confirmation delay mat karein. Verify it immediately.,SCAM,SCAM,0.8835594033569416
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0624,GP02,Government/Police,Hinglish,Aapka account investigation se linked hai. Message ke instructions turant follow karein. Complete the process today.,SCAM,SCAM,0.9360338061829886
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0625,GP02,Government/Police,Hinglish,Aapki identity ek pending case se linked hai. Verification officer se turant contact karein. Follow the instructions before the deadline.,SCAM,SCAM,0.9109547525295569
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0626,GP02,Government/Police,Hinglish,Official notice ke according identity confirm karni hai. Diye gaye contact par reply karein. This request is time-sensitive.,SCAM,SCAM,0.8812099544530092
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0627,GP02,Government/Police,Hinglish,Document verification flag hua hai. Further action se bachne ke liye process complete karein. Your access may be restricted if this is not completed.,SCAM,SCAM,0.953942094560688
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0628,GP02,Government/Police,Hinglish,Government verification pending hai. Requested confirmation delay mat karein. Contact the provided number if you need help.,SCAM,SCAM,0.914152193538747
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0629,GP02,Government/Police,Hinglish,Aapka account investigation se linked hai. Message ke instructions turant follow karein.,SCAM,SCAM,0.8697914905648862
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0630,GP02,Government/Police,Hinglish,Aapki identity ek pending case se linked hai. Verification officer se turant contact karein. Do not delay.,SCAM,SCAM,0.896053324037622
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0631,GP02,Government/Police,Hinglish,Official notice ke according identity confirm karni hai. Diye gaye contact par reply karein. Verify it immediately.,SCAM,SCAM,0.8627402332670763
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0632,GP02,Government/Police,Hinglish,Document verification flag hua hai. Further action se bachne ke liye process complete karein. Complete the process today.,SCAM,SCAM,0.9188536641015497
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0633,GP02,Government/Police,Hinglish,Government verification pending hai. Requested confirmation delay mat karein. Follow the instructions before the deadline.,SCAM,SCAM,0.9011184363849077
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0634,GP02,Government/Police,Hinglish,Aapka account investigation se linked hai. Message ke instructions turant follow karein. This request is time-sensitive.,SCAM,SCAM,0.9347924498628507
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0635,GP02,Government/Police,Hinglish,Aapki identity ek pending case se linked hai. Verification officer se turant contact karein. Your access may be restricted if this is not completed.,SCAM,SCAM,0.9410227096852013
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0636,GP02,Government/Police,Hinglish,Official notice ke according identity confirm karni hai. Diye gaye contact par reply karein. Contact the provided number if you need help.,SCAM,SCAM,0.8949320280749944
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0637,GP02,Government/Police,Hinglish,Document verification flag hua hai. Further action se bachne ke liye process complete karein.,SCAM,SCAM,0.8665316350364758
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0638,GP02,Government/Police,Hinglish,Government verification pending hai. Requested confirmation delay mat karein. Do not delay.,SCAM,SCAM,0.8736776946886401
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0639,GP02,Government/Police,Hinglish,Aapka account investigation se linked hai. Message ke instructions turant follow karein. Verify it immediately.,SCAM,SCAM,0.927960835019661
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0640,GP02,Government/Police,Hinglish,Aapki identity ek pending case se linked hai. Verification officer se turant contact karein. Complete the process today.,SCAM,SCAM,0.9059235462971843
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0641,GP02,Government/Police,Hinglish,Official notice ke according identity confirm karni hai. Diye gaye contact par reply karein. Follow the instructions before the deadline.,SCAM,SCAM,0.8843895859749141
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0642,GP02,Government/Police,Hinglish,Document verification flag hua hai. Further action se bachne ke liye process complete karein. This request is time-sensitive.,SCAM,SCAM,0.9304586554732684
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0643,GP02,Government/Police,Hinglish,Government verification pending hai. Requested confirmation delay mat karein. Your access may be restricted if this is not completed.,SCAM,SCAM,0.9357995160916069
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0644,GP02,Government/Police,Hinglish,Aapka account investigation se linked hai. Message ke instructions turant follow karein. Contact the provided number if you need help.,SCAM,SCAM,0.9423629621538986
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,BV20161,BENIGN_V2,,English,The university portal asked me to verify my email address.,BENIGN,BENIGN,0.28299441179795676
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,BV20098,BENIGN_V2,,Hinglish,Latest build upload kar diya.,BENIGN,BENIGN,0.29364526633444976
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,BV20118,BENIGN_V2,,English,Your order is scheduled for delivery tomorrow.,BENIGN,BENIGN,0.28801679059531354
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,BV20196,BENIGN_V2,,Hinglish,"Haan, kal milte hain.",BENIGN,BENIGN,0.2630243718200633
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,BV20024,BENIGN_V2,,Hinglish,Aaj bahar khana khayenge?,BENIGN,BENIGN,0.4413769714131897
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,BV20236,BENIGN_V2,,English,The official website asks users to verify their email during registration.,BENIGN,BENIGN,0.3853447434396298
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,BV20125,BENIGN_V2,,English,Your refund has been processed.,BENIGN,BENIGN,0.3702486339775714
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,BV20094,BENIGN_V2,,Hinglish,Task aaj evening tak complete ho jayega.,BENIGN,BENIGN,0.4289595960401308
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,BV20076,BENIGN_V2,,English,The team meeting is scheduled for 3 PM.,BENIGN,BENIGN,0.2744762582217933
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,BV20065,BENIGN_V2,,English,Our internal assessment starts next week.,BENIGN,BENIGN,0.3102583380431944
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,BV20061,BENIGN_V2,,English,Please check the university notice board.,BENIGN,BENIGN,0.33565231600436063
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,BV20052,BENIGN_V2,,English,Our networking class starts at 9 AM.,BENIGN,BENIGN,0.2210930278859141
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,BV20217,BENIGN_V2,,English,The weather looks good for a walk.,BENIGN,BENIGN,0.35687302121427306
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,BV20195,BENIGN_V2,,English,"Cool, see you then.",BENIGN,BENIGN,0.4198025199313014
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,BV20200,BENIGN_V2,,Hinglish,"Done, kal milte hain.",BENIGN,BENIGN,0.27577674470948793
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,BV20009,BENIGN_V2,,English,What time are you reaching?,BENIGN,BENIGN,0.45074608245641845
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0082,BENIGN_CTRL,,English,I shared the project presentation in our team drive.,BENIGN,BENIGN,0.23005883290106632
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,BV20097,BENIGN_V2,,Hinglish,Deadline extend ho gayi hai.,BENIGN,BENIGN,0.4634327808408482
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,BV20099,BENIGN_V2,,Hinglish,Team meeting ka invite aa gaya.,BENIGN,BENIGN,0.2585761399145568
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,BV20003,BENIGN_V2,,English,Please call me when you are free.,BENIGN,BENIGN,0.3998612980267634
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,BV20025,BENIGN_V2,,Hinglish,Tum kitne baje aa rahe ho?,BENIGN,BENIGN,0.340278706174121
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,BV20193,BENIGN_V2,,English,See you at 5.,BENIGN,BENIGN,0.33642713870465235
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,BV20239,BENIGN_V2,,English,The booking link in the official travel app is working.,BENIGN,BENIGN,0.2698503998340601
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,BV20180,BENIGN_V2,,English,The course materials are available through the university portal.,BENIGN,BENIGN,0.33816984870209454
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,BV20190,BENIGN_V2,,English,Sounds good to me.,BENIGN,SCAM,0.5400168976759447
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,BV20142,BENIGN_V2,,English,The payment of Rs 250 to the cafe was completed successfully.,BENIGN,BENIGN,0.3360764066226063
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,BV20095,BENIGN_V2,,Hinglish,Presentation review ke liye ready hai.,BENIGN,BENIGN,0.4867295754373173
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0079,BENIGN_CTRL,,English,Your train ticket is confirmed in the official railway app.,BENIGN,BENIGN,0.2479479462714804
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,BV20202,BENIGN_V2,,Hinglish,Baad mein baat karte hain.,BENIGN,BENIGN,0.2929295155978506
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,BV20157,BENIGN_V2,,Hinglish,Credit card statement check kar lena.,BENIGN,BENIGN,0.23410501225941618
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,BV20120,BENIGN_V2,,English,Your replacement item has been shipped.,BENIGN,BENIGN,0.43771065696936245
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,BV20201,BENIGN_V2,,Hinglish,"Thik hai, thanks.",BENIGN,BENIGN,0.4539416895845405
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,BV20046,BENIGN_V2,,Hinglish,Assignment ka kaam complete hua?,BENIGN,BENIGN,0.4912107592283152
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0812,BENIGN_EXPANDED,,English,Your order has been delivered. Thank you for shopping with us.,BENIGN,BENIGN,0.35862851688836445
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,BV20105,BENIGN_V2,,English,The bus is expected to arrive at 8 PM.,BENIGN,BENIGN,0.2754143265369567
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,BV20096,BENIGN_V2,,Hinglish,Stand-up mein issue discuss karenge.,BENIGN,BENIGN,0.3190757927254905
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,BV20131,BENIGN_V2,,English,Your food order has been accepted by the restaurant.,BENIGN,BENIGN,0.3228345258879658
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,BV20047,BENIGN_V2,,Hinglish,"Kal presentation hai, yaad rakhna.",BENIGN,BENIGN,0.31353262763184647
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,BV20090,BENIGN_V2,,English,The meeting notes are available in the team drive.,BENIGN,BENIGN,0.2404629725594294
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,BV20039,BENIGN_V2,,English,Let's decide the restaurant later.,BENIGN,BENIGN,0.2677154783941441
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0808,BENIGN_EXPANDED,,Hinglish,Your train ticket booking is confirmed for tomorrow morning.,BENIGN,BENIGN,0.3290295911163257
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,BV20173,BENIGN_V2,,Hinglish,Booking details verify kar lena.,BENIGN,BENIGN,0.3743452835837328
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,BV20218,BENIGN_V2,,English,I need to buy groceries this evening.,BENIGN,BENIGN,0.4329814740656914
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,BV20181,BENIGN_V2,,English,Please use the usual team meeting link.,BENIGN,BENIGN,0.41105878462331136
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,BV20012,BENIGN_V2,,English,Please keep the door open when you arrive.,BENIGN,BENIGN,0.4240401300973862
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,BV20116,BENIGN_V2,,English,Your grocery order has been delivered.,BENIGN,BENIGN,0.362317591375284
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,BV20227,BENIGN_V2,,Hinglish,Shaam ko groceries lene jaana hai.,BENIGN,SCAM,0.613640241896457
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,BV20226,BENIGN_V2,,Hinglish,Aaj gym jaana hai.,BENIGN,BENIGN,0.48191906543037305
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0809,BENIGN_EXPANDED,,English,Your parcel was delivered to the address provided during checkout.,BENIGN,BENIGN,0.4431408178855755
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,S0083,BENIGN_CTRL,,Hinglish,Kal library mein milte hain.,BENIGN,BENIGN,0.2317386686049612
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,BV20104,BENIGN_V2,,English,Our flight departs from Terminal 2.,BENIGN,BENIGN,0.38578497573313775
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,BV20238,BENIGN_V2,,English,I checked the payment details in the official banking application.,BENIGN,BENIGN,0.3398199232210781
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,BV20083,BENIGN_V2,,English,Please add your comments to the document.,BENIGN,BENIGN,0.4725326355468325
+B_UNSEEN_CAMPAIGNS_AND_CATEGORIES,BV20054,BENIGN_V2,,English,Please bring your lab record tomorrow.,BENIGN,BENIGN,0.3543115832962949

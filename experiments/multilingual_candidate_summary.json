@@ -1,0 +1,11 @@
+{
+  "purpose": "Synthetic multilingual pipeline smoke test",
+  "training_examples": 48,
+  "training_scam": 24,
+  "training_benign": 24,
+  "test_examples": 12,
+  "correct": 12,
+  "accuracy": 1.0,
+  "seconds": 0.21,
+  "warning": "Synthetic examples only. This score is not a real-world accuracy estimate and does not justify production deployment."
+}

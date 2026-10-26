@@ -1,0 +1,13 @@
+﻿message,expected,language,predicted,correct
+Send your OTP immediately or your account will close.,SCAM,English,SCAM,True
+Pay a processing fee to receive your prize.,SCAM,English,SCAM,True
+I reviewed my bank statement in the official app.,BENIGN,English,BENIGN,True
+My class begins at ten tomorrow.,BENIGN,English,BENIGN,True
+"आपका खाता बंद होगा, अभी ओटीपी भेजें।",SCAM,Hindi,SCAM,True
+इनाम के लिए पहले पैसे जमा करें।,SCAM,Hindi,SCAM,True
+मैंने आधिकारिक ऐप में अपना बिल देखा।,BENIGN,Hindi,BENIGN,True
+कल कॉलेज में परीक्षा है।,BENIGN,Hindi,BENIGN,True
+OTP bhejo warna bank account block ho jayega.,SCAM,Hinglish,SCAM,True
+Prize claim karne ke liye pehle fee pay karo.,SCAM,Hinglish,SCAM,True
+Maine official app mein bill check kiya.,BENIGN,Hinglish,BENIGN,True
+Aaj college mein friends ke saath lunch hai.,BENIGN,Hinglish,BENIGN,True
