@@ -1,0 +1,11 @@
+﻿sample_id,language,actual_label,production_v2_prediction,production_v2_correct,candidate_prediction,candidate_correct,models_disagree,independent_review
+IVS_SCAM_001,English,SCAM,SCAM,True,SCAM,True,False,PENDING
+IVS_SCAM_002,English,SCAM,SCAM,True,SCAM,True,False,PENDING
+IVS_SCAM_003,English,SCAM,SCAM,True,BENIGN,False,True,PENDING
+IVS_SCAM_004,English,SCAM,SCAM,True,SCAM,True,False,PENDING
+IVS_SCAM_005,English,SCAM,SCAM,True,BENIGN,False,True,PENDING
+IVS_BENIGN_001,English,BENIGN,BENIGN,True,SCAM,False,True,PENDING
+IVS_BENIGN_002,English,BENIGN,BENIGN,True,BENIGN,True,False,PENDING
+IVS_BENIGN_003,Hinglish,BENIGN,BENIGN,True,BENIGN,True,False,PENDING
+IVS_BENIGN_004,English,BENIGN,BENIGN,True,BENIGN,True,False,PENDING
+IVS_BENIGN_005,Hinglish,BENIGN,BENIGN,True,BENIGN,True,False,PENDING

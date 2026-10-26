@@ -1,0 +1,63 @@
+{
+  "evaluation_type": "Preliminary pilot comparison",
+  "generated_at_utc": "2026-10-26T11:20:39.489749+00:00",
+  "dataset": "datasets\\independent_validation_pilot.csv",
+  "sample_count": 10,
+  "label_counts": {
+    "SCAM": 5,
+    "BENIGN": 5
+  },
+  "independent_review_status_counts": {
+    "PENDING": 10
+  },
+  "models_retrained": false,
+  "production_model_modified": false,
+  "production_v2": {
+    "accuracy": 1.0,
+    "scam_precision": 1.0,
+    "scam_recall": 1.0,
+    "scam_f1": 1.0,
+    "macro_f1": 1.0,
+    "confusion_matrix_labels": [
+      "BENIGN",
+      "SCAM"
+    ],
+    "confusion_matrix": [
+      [
+        5,
+        0
+      ],
+      [
+        0,
+        5
+      ]
+    ]
+  },
+  "multilingual_candidate": {
+    "accuracy": 0.7,
+    "scam_precision": 0.75,
+    "scam_recall": 0.6,
+    "scam_f1": 0.6666666666666666,
+    "macro_f1": 0.696969696969697,
+    "confusion_matrix_labels": [
+      "BENIGN",
+      "SCAM"
+    ],
+    "confusion_matrix": [
+      [
+        4,
+        1
+      ],
+      [
+        2,
+        3
+      ]
+    ]
+  },
+  "limitations": [
+    "Small pilot dataset; results are not a real-world accuracy estimate.",
+    "Labels have not necessarily been independently verified.",
+    "Scam scenarios and synthetic benign controls have different provenance.",
+    "Do not use this report alone to promote the candidate to production."
+  ]
+}
