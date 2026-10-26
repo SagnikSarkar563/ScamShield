@@ -1,4 +1,4 @@
-# ScamShield 🛡️
+﻿# ScamShield 🛡️
 
 **An AI-powered scam detection and analysis platform focused on scams affecting users in India.**
 
@@ -226,15 +226,33 @@ Reported results should always specify the dataset, evaluation split, sample siz
 
 ## Testing and Evaluation
 
-Backend tests can be run from the repository root:
+Run the backend regression tests from the `backend` directory:
 
 ```powershell
-python -m pytest backend/tests -q
+cd backend
+python -m pytest -q
 ```
 
-Additional model and experiment scripts are available in `ml/scripts/` and `dl/scripts/`. Review each script's arguments and dataset requirements before running it.
+The current backend test suite covers the health endpoint, analysis response fields, empty input, URL-only requests, safe error handling, and risk-level thresholds.
 
-Evaluation results from small or synthetic datasets are useful for development but do not establish real-world detection accuracy.
+### Pilot model comparison
+
+The saved production V2 model and experimental multilingual candidate can be compared without retraining them. From the repository root, run:
+
+```powershell
+python ml/scripts/evaluate_pilot_models.py
+```
+
+The script reads `datasets/independent_validation_pilot.csv` and writes:
+
+- `experiments/pilot_model_comparison_predictions.csv`
+- `experiments/pilot_model_comparison_summary.json`
+
+It refuses to overwrite existing output files. Review or archive previous results before rerunning it.
+
+The pilot contains only 10 examples, and all independent-review statuses are pending. Its metrics are preliminary and must not be interpreted as estimates of real-world detection accuracy. The review workflow is tracked in `datasets/independent_validation_review_checklist.csv`.
+
+Additional model and experiment scripts are available in `ml/scripts/` and `dl/scripts/`. Review each script's dataset requirements before running it.
 
 ## Limitations
 
@@ -264,11 +282,12 @@ If a message appears suspicious, verify it through the organisation's official c
 - [x] Add initial URL analysis
 - [x] Create model evaluation scripts and pilot datasets
 - [x] Train an experimental multilingual candidate
-- [ ] Improve multilingual classification reliability
+- [ ] Independently review pilot labels and improve multilingual classification reliability
 - [ ] Expand and validate representative scam and benign datasets
 - [ ] Evaluate false positives and false negatives systematically
 - [ ] Validate performance on unseen campaigns
-- [ ] Complete regression tests and end-to-end verification
+- [x] Add backend regression tests (6 tests currently pass)
+- [ ] Complete full frontend-to-backend end-to-end verification
 
 ### Future phases
 
