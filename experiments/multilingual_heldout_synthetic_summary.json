@@ -1,0 +1,206 @@
+{
+  "evaluation_type": "Synthetic multilingual smoke evaluation",
+  "generated_at_utc": "2026-10-26T12:47:48.067022+00:00",
+  "dataset": "datasets\\multilingual_heldout_synthetic.csv",
+  "sample_count": 24,
+  "language_counts": {
+    "English": 8,
+    "Hindi": 8,
+    "Hinglish": 8
+  },
+  "labels_are_independently_reviewed": false,
+  "models_retrained": false,
+  "production_model_modified": false,
+  "overall": {
+    "production_v2": {
+      "sample_count": 24,
+      "accuracy": 0.7917,
+      "scam_precision": 0.8889,
+      "scam_recall": 0.6667,
+      "scam_f1": 0.7619,
+      "macro_f1": 0.7884,
+      "confusion_matrix_labels": [
+        "BENIGN",
+        "SCAM"
+      ],
+      "confusion_matrix": [
+        [
+          11,
+          1
+        ],
+        [
+          4,
+          8
+        ]
+      ]
+    },
+    "multilingual_candidate": {
+      "sample_count": 24,
+      "accuracy": 0.9583,
+      "scam_precision": 0.9231,
+      "scam_recall": 1.0,
+      "scam_f1": 0.96,
+      "macro_f1": 0.9583,
+      "confusion_matrix_labels": [
+        "BENIGN",
+        "SCAM"
+      ],
+      "confusion_matrix": [
+        [
+          11,
+          1
+        ],
+        [
+          0,
+          12
+        ]
+      ]
+    }
+  },
+  "by_language": {
+    "English": {
+      "production_v2": {
+        "sample_count": 8,
+        "accuracy": 0.875,
+        "scam_precision": 0.8,
+        "scam_recall": 1.0,
+        "scam_f1": 0.8889,
+        "macro_f1": 0.873,
+        "confusion_matrix_labels": [
+          "BENIGN",
+          "SCAM"
+        ],
+        "confusion_matrix": [
+          [
+            3,
+            1
+          ],
+          [
+            0,
+            4
+          ]
+        ]
+      },
+      "multilingual_candidate": {
+        "sample_count": 8,
+        "accuracy": 0.875,
+        "scam_precision": 0.8,
+        "scam_recall": 1.0,
+        "scam_f1": 0.8889,
+        "macro_f1": 0.873,
+        "confusion_matrix_labels": [
+          "BENIGN",
+          "SCAM"
+        ],
+        "confusion_matrix": [
+          [
+            3,
+            1
+          ],
+          [
+            0,
+            4
+          ]
+        ]
+      }
+    },
+    "Hindi": {
+      "production_v2": {
+        "sample_count": 8,
+        "accuracy": 0.5,
+        "scam_precision": 0.0,
+        "scam_recall": 0.0,
+        "scam_f1": 0.0,
+        "macro_f1": 0.3333,
+        "confusion_matrix_labels": [
+          "BENIGN",
+          "SCAM"
+        ],
+        "confusion_matrix": [
+          [
+            4,
+            0
+          ],
+          [
+            4,
+            0
+          ]
+        ]
+      },
+      "multilingual_candidate": {
+        "sample_count": 8,
+        "accuracy": 1.0,
+        "scam_precision": 1.0,
+        "scam_recall": 1.0,
+        "scam_f1": 1.0,
+        "macro_f1": 1.0,
+        "confusion_matrix_labels": [
+          "BENIGN",
+          "SCAM"
+        ],
+        "confusion_matrix": [
+          [
+            4,
+            0
+          ],
+          [
+            0,
+            4
+          ]
+        ]
+      }
+    },
+    "Hinglish": {
+      "production_v2": {
+        "sample_count": 8,
+        "accuracy": 1.0,
+        "scam_precision": 1.0,
+        "scam_recall": 1.0,
+        "scam_f1": 1.0,
+        "macro_f1": 1.0,
+        "confusion_matrix_labels": [
+          "BENIGN",
+          "SCAM"
+        ],
+        "confusion_matrix": [
+          [
+            4,
+            0
+          ],
+          [
+            0,
+            4
+          ]
+        ]
+      },
+      "multilingual_candidate": {
+        "sample_count": 8,
+        "accuracy": 1.0,
+        "scam_precision": 1.0,
+        "scam_recall": 1.0,
+        "scam_f1": 1.0,
+        "macro_f1": 1.0,
+        "confusion_matrix_labels": [
+          "BENIGN",
+          "SCAM"
+        ],
+        "confusion_matrix": [
+          [
+            4,
+            0
+          ],
+          [
+            0,
+            4
+          ]
+        ]
+      }
+    }
+  },
+  "limitations": [
+    "All messages are synthetic and labels are pending review.",
+    "This is a constructed smoke test, not real-world validation.",
+    "Small sample count; metrics are highly uncertain.",
+    "Do not use these results alone to promote a model to production."
+  ]
+}

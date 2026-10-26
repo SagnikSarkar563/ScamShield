@@ -1,0 +1,25 @@
+﻿sample_id,language,actual_label,source_type,independent_review,production_v2_prediction,production_v2_correct,multilingual_candidate_prediction,multilingual_candidate_correct,message
+MH_EN_S001,English,SCAM,synthetic,PENDING,SCAM,True,SCAM,True,Your bank account will be blocked today. Share your OTP now to keep it active.
+MH_EN_S002,English,SCAM,synthetic,PENDING,SCAM,True,SCAM,True,Pay a refundable registration fee to receive your guaranteed job offer.
+MH_EN_S003,English,SCAM,synthetic,PENDING,SCAM,True,SCAM,True,You won a prize. Pay a processing charge immediately to claim it.
+MH_EN_S004,English,SCAM,synthetic,PENDING,SCAM,True,SCAM,True,A police officer says you must transfer money to settle a criminal case.
+MH_EN_B001,English,BENIGN,synthetic,PENDING,BENIGN,True,BENIGN,True,Our project meeting is scheduled for tomorrow at 10 AM.
+MH_EN_B002,English,BENIGN,synthetic,PENDING,SCAM,False,BENIGN,True,Your library book is due next Monday. Please return it on time.
+MH_EN_B003,English,BENIGN,synthetic,PENDING,BENIGN,True,SCAM,False,Your appointment is confirmed for 3 PM on Friday.
+MH_EN_B004,English,BENIGN,synthetic,PENDING,BENIGN,True,BENIGN,True,The class timetable has been updated on the college portal.
+MH_HI_S001,Hindi,SCAM,synthetic,PENDING,BENIGN,False,SCAM,True,आपका बैंक खाता आज बंद हो जाएगा। इसे चालू रखने के लिए अभी अपना ओटीपी भेजें।
+MH_HI_S002,Hindi,SCAM,synthetic,PENDING,BENIGN,False,SCAM,True,नौकरी पक्की करने के लिए पहले रजिस्ट्रेशन फीस जमा करें।
+MH_HI_S003,Hindi,SCAM,synthetic,PENDING,BENIGN,False,SCAM,True,आपने लॉटरी जीती है। इनाम पाने के लिए तुरंत प्रोसेसिंग फीस भेजें।
+MH_HI_S004,Hindi,SCAM,synthetic,PENDING,BENIGN,False,SCAM,True,पुलिस के नाम पर फोन करके केस खत्म करने के लिए पैसे ट्रांसफर करने को कहा जा रहा है।
+MH_HI_B001,Hindi,BENIGN,synthetic,PENDING,BENIGN,True,BENIGN,True,कल सुबह दस बजे हमारी पढ़ाई की बैठक है।
+MH_HI_B002,Hindi,BENIGN,synthetic,PENDING,BENIGN,True,BENIGN,True,आपकी लाइब्रेरी की किताब अगले सोमवार को वापस करनी है।
+MH_HI_B003,Hindi,BENIGN,synthetic,PENDING,BENIGN,True,BENIGN,True,शुक्रवार को दोपहर तीन बजे आपका अपॉइंटमेंट तय है।
+MH_HI_B004,Hindi,BENIGN,synthetic,PENDING,BENIGN,True,BENIGN,True,कॉलेज पोर्टल पर नई क्लास टाइमटेबल उपलब्ध है।
+MH_HG_S001,Hinglish,SCAM,synthetic,PENDING,SCAM,True,SCAM,True,"Aapka bank account aaj block ho jayega, account bachane ke liye OTP bhejo."
+MH_HG_S002,Hinglish,SCAM,synthetic,PENDING,SCAM,True,SCAM,True,Job confirm karne ke liye pehle registration fee pay karo.
+MH_HG_S003,Hinglish,SCAM,synthetic,PENDING,SCAM,True,SCAM,True,"Aap lottery jeet gaye ho, prize lene ke liye abhi processing fee bhejo."
+MH_HG_S004,Hinglish,SCAM,synthetic,PENDING,SCAM,True,SCAM,True,Police ke naam par call karke case settle karne ke liye paise transfer karne bol rahe hain.
+MH_HG_B001,Hinglish,BENIGN,synthetic,PENDING,BENIGN,True,BENIGN,True,Kal subah 10 baje group project meeting hai.
+MH_HG_B002,Hinglish,BENIGN,synthetic,PENDING,BENIGN,True,BENIGN,True,Library ki book next Monday tak return kar dena.
+MH_HG_B003,Hinglish,BENIGN,synthetic,PENDING,BENIGN,True,BENIGN,True,Friday ko 3 PM tumhara appointment scheduled hai.
+MH_HG_B004,Hinglish,BENIGN,synthetic,PENDING,BENIGN,True,BENIGN,True,College portal par updated class timetable upload hua hai.

@@ -1,0 +1,25 @@
+﻿sample_id,message,label,language,source_type,independent_review
+MH_EN_S001,"Your bank account will be blocked today. Share your OTP now to keep it active.",SCAM,English,synthetic,PENDING
+MH_EN_S002,"Pay a refundable registration fee to receive your guaranteed job offer.",SCAM,English,synthetic,PENDING
+MH_EN_S003,"You won a prize. Pay a processing charge immediately to claim it.",SCAM,English,synthetic,PENDING
+MH_EN_S004,"A police officer says you must transfer money to settle a criminal case.",SCAM,English,synthetic,PENDING
+MH_EN_B001,"Our project meeting is scheduled for tomorrow at 10 AM.",BENIGN,English,synthetic,PENDING
+MH_EN_B002,"Your library book is due next Monday. Please return it on time.",BENIGN,English,synthetic,PENDING
+MH_EN_B003,"Your appointment is confirmed for 3 PM on Friday.",BENIGN,English,synthetic,PENDING
+MH_EN_B004,"The class timetable has been updated on the college portal.",BENIGN,English,synthetic,PENDING
+MH_HI_S001,"आपका बैंक खाता आज बंद हो जाएगा। इसे चालू रखने के लिए अभी अपना ओटीपी भेजें।",SCAM,Hindi,synthetic,PENDING
+MH_HI_S002,"नौकरी पक्की करने के लिए पहले रजिस्ट्रेशन फीस जमा करें।",SCAM,Hindi,synthetic,PENDING
+MH_HI_S003,"आपने लॉटरी जीती है। इनाम पाने के लिए तुरंत प्रोसेसिंग फीस भेजें।",SCAM,Hindi,synthetic,PENDING
+MH_HI_S004,"पुलिस के नाम पर फोन करके केस खत्म करने के लिए पैसे ट्रांसफर करने को कहा जा रहा है।",SCAM,Hindi,synthetic,PENDING
+MH_HI_B001,"कल सुबह दस बजे हमारी पढ़ाई की बैठक है।",BENIGN,Hindi,synthetic,PENDING
+MH_HI_B002,"आपकी लाइब्रेरी की किताब अगले सोमवार को वापस करनी है।",BENIGN,Hindi,synthetic,PENDING
+MH_HI_B003,"शुक्रवार को दोपहर तीन बजे आपका अपॉइंटमेंट तय है।",BENIGN,Hindi,synthetic,PENDING
+MH_HI_B004,"कॉलेज पोर्टल पर नई क्लास टाइमटेबल उपलब्ध है।",BENIGN,Hindi,synthetic,PENDING
+MH_HG_S001,"Aapka bank account aaj block ho jayega, account bachane ke liye OTP bhejo.",SCAM,Hinglish,synthetic,PENDING
+MH_HG_S002,"Job confirm karne ke liye pehle registration fee pay karo.",SCAM,Hinglish,synthetic,PENDING
+MH_HG_S003,"Aap lottery jeet gaye ho, prize lene ke liye abhi processing fee bhejo.",SCAM,Hinglish,synthetic,PENDING
+MH_HG_S004,"Police ke naam par call karke case settle karne ke liye paise transfer karne bol rahe hain.",SCAM,Hinglish,synthetic,PENDING
+MH_HG_B001,"Kal subah 10 baje group project meeting hai.",BENIGN,Hinglish,synthetic,PENDING
+MH_HG_B002,"Library ki book next Monday tak return kar dena.",BENIGN,Hinglish,synthetic,PENDING
+MH_HG_B003,"Friday ko 3 PM tumhara appointment scheduled hai.",BENIGN,Hinglish,synthetic,PENDING
+MH_HG_B004,"College portal par updated class timetable upload hua hai.",BENIGN,Hinglish,synthetic,PENDING
