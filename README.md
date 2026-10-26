@@ -287,7 +287,7 @@ If a message appears suspicious, verify it through the organisation's official c
 - [ ] Evaluate false positives and false negatives systematically
 - [ ] Validate performance on unseen campaigns
 - [x] Add backend regression tests (6 tests currently pass)
-- [ ] Complete full frontend-to-backend end-to-end verification
+- [x] Complete full frontend-to-backend end-to-end verification
 
 ### Future phases
 
